@@ -1,0 +1,2500 @@
+1,Female,5~19,Unknown,Admitted,16,952.13
+2,Female,20~64,Unknown,Admitted,0,693
+3,Female,0~4,Unknown,Admitted,0,693
+4,Male,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+5,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,952.13
+6,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+7,Female,20~64,Unknown,Emergency dentist,0,54.13
+8,Male,5~19,Respiratory conditions,Admitted,16,1160
+9,Male,20~64,Unknown,Discharged,0,173
+10,Male,20~64,Unknown,WIC,0,0
+11,Male,20~64,Unknown,Admitted,16,1160
+12,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+13,Female,65+,Unknown,Admitted,0,693
+14,Male,65+,Unknown,MIU,0,0
+15,Male,20~64,Unknown,MIU,16,640
+16,Female,65+,Unknown,Admitted,0,693
+17,Female,20~64,Unknown,Admitted,16,1160
+18,Female,20~64,Central Nervous System conditions,Admitted,16,1160
+19,Female,20~64,Falls,WIC,0,0
+20,Male,20~64,Respiratory conditions,WIC,0,0
+21,Male,20~64,Unknown,Discharged,16,640
+22,Male,5~19,Unknown,Admitted,0,693
+23,Male,0~4,Unknown,Discharged,0,173
+24,Female,65+,Respiratory conditions,Admitted,0,693
+25,Female,65+,Unknown,Admitted,16,1160
+26,Male,0~4,Cardiac conditions,WIC,0,0
+27,Male,20~64,Collapse,Admitted,16,1160
+28,Male,5~19,Respiratory conditions,Admitted,16,1160
+29,Male,0~4,Falls,Not picked up in an ambulance,0,54
+30,Female,20~64,Gastrointestinal conditions,Admitted,0,693
+31,Female,20~64,Unknown,Admitted,0,693
+32,Male,20~64,Unknown,Admitted,0,693
+33,Male,0~4,Unknown,WIC,0,54.13
+34,Female,65+,Collapse,Not picked up in an ambulance,0,54
+35,Female,65+,Unknown,Admitted,0,693
+36,Female,65+,Unknown,Admitted,16,1160
+37,Male,5~19,Unknown,Discharged,16,640
+38,Male,20~64,Unknown,Admitted,16,1160
+39,Male,20~64,Unknown,Admitted,0,693
+40,Female,20~64,Collapse,WIC,0,0
+41,Male,20~64,Unknown,Discharged,16,640
+42,Male,5~19,Falls,Emergency dentist,0,54.13
+43,Female,5~19,Unknown,Admitted,0,693
+44,Female,0~4,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+45,Female,5~19,Central Nervous System conditions,WIC,0,0
+46,Male,5~19,Collapse,Call Closed,0,9.13
+47,Male,65+,Central Nervous System conditions,Admitted,0,702.13
+48,Female,65+,Unknown,Admitted,16,1160
+49,Male,20~64,Cardiac conditions,Admitted,0,693
+50,Male,65+,Unknown,Admitted,0,693
+51,Female,65+,Unknown,Spoke to a primary care service,0,54.13
+52,Male,5~19,Unknown,Admitted,16,1160
+53,Female,5~19,Unknown,Admitted,0,702.13
+54,Female,20~64,Unknown,Admitted,16,1160
+55,Female,65+,Unknown,Admitted,0,702.13
+56,Female,0~4,Falls,WIC,0,0
+57,Female,20~64,Collapse,WIC,0,0
+58,Male,20~64,Cardiac conditions,Spoke to a primary care service,0,54.13
+59,Female,20~64,Cardiac conditions,Admitted,0,693
+60,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,182.13
+61,Male,65+,Unknown,Admitted,0,693
+62,Female,20~64,Unknown,Admitted,0,693
+63,Female,20~64,Unknown,Admitted,16,952.13
+64,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+65,Female,20~64,Falls,WIC,0,0
+66,Male,0~4,Unknown,Discharged,16,432.13
+67,Female,20~64,Central Nervous System conditions,Spoke to a primary care service,0,54.13
+68,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+69,Male,20~64,Unknown,Admitted,0,693
+70,Female,0~4,Gastrointestinal conditions,Admitted,0,702.13
+71,Female,5~19,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+72,Male,20~64,Unknown,Discharged,0,173
+73,Male,0~4,Unknown,Admitted,0,693
+74,Male,65+,Unknown,Admitted,0,693
+75,Female,20~64,Unknown,Discharged,0,182.13
+76,Female,65+,Cardiac conditions,Admitted,16,1160
+77,Female,65+,Central Nervous System conditions,Admitted,16,1160
+78,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,173
+79,Female,20~64,Cardiac conditions,Admitted,0,693
+80,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+81,Male,65+,Unknown,Admitted,0,702.13
+82,Male,65+,Gastrointestinal conditions,WIC,0,0
+83,Female,0~4,Respiratory conditions,Call Closed,0,9.13
+84,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+85,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+86,Female,0~4,Unknown,Admitted,0,702.13
+87,Male,20~64,Collapse,OOH,16,640
+88,Male,20~64,Unknown,WIC,0,0
+89,Male,20~64,Unknown,Admitted,0,693
+90,Female,65+,Unknown,Seen by A&E doctor,76,681
+91,Male,20~64,Unknown,Admitted,0,693
+92,Male,65+,Respiratory conditions,Admitted,16,1160
+93,Male,0~4,Cardiac conditions,Admitted,16,1160
+94,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+95,Female,5~19,Unknown,Discharged,0,173
+96,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+97,Female,65+,Unknown,Admitted,0,693
+98,Male,0~4,Gastrointestinal conditions,Admitted,16,1160
+99,Male,65+,Unknown,Admitted,16,1160
+100,Female,5~19,Gastrointestinal conditions,WIC,0,54.13
+101,Female,20~64,Unknown,Discharged,0,173
+102,Male,20~64,Unknown,Admitted,0,693
+103,Male,20~64,Unknown,Admitted,0,693
+104,Male,20~64,Cardiac conditions,Admitted,0,693
+105,Female,65+,Collapse,Not picked up in an ambulance,0,54
+106,Female,20~64,Respiratory conditions,Admitted,0,702.13
+107,Male,20~64,Unknown,Admitted,0,702.13
+108,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,173
+109,Male,20~64,Unknown,Admitted,0,693
+110,Male,65+,Cardiac conditions,Discharged,16,640
+111,Female,20~64,Respiratory conditions,Admitted,0,693
+112,Male,0~4,Unknown,Admitted,0,693
+113,Female,20~64,Unknown,Admitted,0,693
+114,Male,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+115,Male,20~64,Respiratory conditions,WIC,0,0
+116,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+117,Female,65+,Unknown,Not picked up in an ambulance,0,54
+118,Male,5~19,Unknown,Admitted,16,1160
+119,Male,65+,Unknown,Admitted,0,693
+120,Female,65+,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+121,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,432.13
+122,Female,65+,Unknown,Call Closed,0,9.13
+123,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+124,Female,65+,Unknown,Admitted,0,693
+125,Female,65+,Unknown,Admitted,0,693
+126,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+127,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+128,Male,65+,Gastrointestinal conditions,Admitted,0,693
+129,Female,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+130,Male,20~64,Respiratory conditions,Admitted,16,1160
+131,Male,65+,Unknown,MIU,0,0
+132,Male,20~64,Unknown,Admitted,0,693
+133,Male,65+,Unknown,Call Closed,0,9.13
+134,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+135,Female,20~64,Falls,Not picked up in an ambulance,0,54
+136,Female,20~64,Respiratory conditions,Spoke to a primary care service,0,54.13
+137,Male,20~64,Unknown,Discharged,16,432.13
+138,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+139,Male,5~19,Unknown,Admitted,0,693
+140,Female,65+,Falls,Seen by A&E doctor,76,681
+141,Male,20~64,Unknown,Admitted,0,693
+142,Female,0~4,Respiratory conditions,Not picked up in an ambulance,0,54
+143,Female,65+,Gastrointestinal conditions,Admitted,0,693
+144,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,432.13
+145,Male,20~64,Unknown,Admitted,0,693
+146,Female,65+,Cardiac conditions,WIC,0,0
+147,Female,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+148,Female,65+,Unknown,Admitted,0,702.13
+149,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,432.13
+150,Female,20~64,Unknown,Admitted,0,693
+151,Female,0~4,Respiratory conditions,Not picked up in an ambulance,0,54
+152,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,173
+153,Female,5~19,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+154,Male,20~64,Unknown,Emergency dentist,0,54.13
+155,Male,20~64,Unknown,Admitted,16,952.13
+156,Female,20~64,Respiratory conditions,Admitted,16,952.13
+157,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+158,Female,65+,Respiratory conditions,Admitted,0,693
+159,Female,20~64,Unknown,Admitted,0,693
+160,Male,65+,Unknown,Admitted,0,693
+161,Female,20~64,Falls,Not picked up in an ambulance,0,54
+162,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+163,Female,20~64,Unknown,Admitted,0,693
+164,Female,20~64,Unknown,Admitted,0,693
+165,Female,20~64,Unknown,Admitted,0,693
+166,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,173
+167,Female,65+,Unknown,Admitted,16,1160
+168,Female,65+,Unknown,Spoke to a primary care service,0,54.13
+169,Female,20~64,Falls,WIC,0,0
+170,Male,65+,Cardiac conditions,WIC,0,0
+171,Female,20~64,Unknown,Admitted,0,693
+172,Male,20~64,Unknown,Admitted,0,693
+173,Male,0~4,Central Nervous System conditions,Admitted,0,693
+174,Male,20~64,Falls,WIC,0,0
+175,Male,20~64,Unknown,MIU,0,0
+176,Male,65+,Unknown,Admitted,16,1160
+177,Male,65+,Dislocation/fracture/joint injury/amputation,Emergency dentist,0,54.13
+178,Female,65+,Cardiac conditions,Admitted,16,1160
+179,Male,20~64,Unknown,Out-patient clinic,16,640
+180,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+181,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+182,Female,65+,Gastrointestinal conditions,Admitted,0,693
+183,Male,20~64,Cardiac conditions,WIC,0,0
+184,Female,20~64,Respiratory conditions,Admitted,16,1160
+185,Male,0~4,Unknown,Admitted,0,693
+186,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+187,Female,5~19,Unknown,Emergency dentist,0,54.13
+188,Female,65+,Unknown,Admitted,0,693
+189,Female,65+,Central Nervous System conditions,Admitted,16,1160
+190,Female,20~64,Cardiac conditions,Discharged,0,173
+191,Female,65+,Unknown,Admitted,16,1160
+192,Female,20~64,Gastrointestinal conditions,Admitted,0,693
+193,Female,20~64,Respiratory conditions,WIC,0,0
+194,Female,65+,Unknown,Admitted,0,693
+195,Male,20~64,Unknown,WIC,0,0
+196,Female,20~64,Dislocation/fracture/joint injury/amputation,Out-patient clinic,0,182.13
+197,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+198,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+199,Male,20~64,Unknown,Admitted,0,693
+200,Female,0~4,Unknown,Emergency dentist,0,54.13
+201,Male,65+,Unknown,MIU,0,54.13
+202,Male,20~64,Unknown,Admitted,16,1160
+203,Male,0~4,Unknown,Admitted,16,1160
+204,Male,20~64,Unknown,Admitted,0,693
+205,Female,5~19,Unknown,Admitted,0,693
+206,Male,20~64,Respiratory conditions,Admitted,0,693
+207,Female,65+,Falls,WIC,0,0
+208,Female,20~64,Unknown,OOH,0,54.13
+209,Male,65+,Respiratory conditions,Admitted,0,693
+210,Male,20~64,Respiratory conditions,Call Closed,0,9.13
+211,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+212,Male,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+213,Female,20~64,Collapse,WIC,0,0
+214,Male,20~64,Gastrointestinal conditions,Admitted,0,702.13
+215,Male,20~64,Unknown,Admitted,0,693
+216,Female,65+,Unknown,Admitted,16,1160
+217,Female,20~64,Unknown,Admitted,0,702.13
+218,Male,65+,Unknown,Admitted,16,1160
+219,Male,65+,Unknown,MIU,0,54.13
+220,Female,0~4,Respiratory conditions,Admitted,0,693
+221,Male,65+,Unknown,Admitted,0,693
+222,Male,20~64,Unknown,Discharged,0,182.13
+223,Male,20~64,Gastrointestinal conditions,Admitted,16,1160
+224,Female,65+,Central Nervous System conditions,OOH,0,54.13
+225,Male,20~64,Unknown,Admitted,0,693
+226,Female,5~19,Gastrointestinal conditions,Admitted,16,1160
+227,Female,20~64,Unknown,Admitted,16,1160
+228,Male,20~64,Unknown,Admitted,16,1160
+229,Male,20~64,Respiratory conditions,Admitted,16,1160
+230,Male,65+,Unknown,Admitted,16,1160
+231,Female,65+,Respiratory conditions,Admitted,0,702.13
+232,Male,65+,Unknown,Call Closed,0,9.13
+233,Female,20~64,Respiratory conditions,Admitted,0,693
+234,Female,20~64,Respiratory conditions,Admitted,0,693
+235,Female,65+,Unknown,Admitted,0,693
+236,Male,20~64,Cardiac conditions,Admitted,0,693
+237,Male,5~19,Respiratory conditions,Admitted,0,693
+238,Male,20~64,Central Nervous System conditions,OOH,0,54.13
+239,Female,20~64,Unknown,Admitted,0,693
+240,Male,20~64,Unknown,Discharged,0,173
+241,Female,65+,Central Nervous System conditions,Admitted,0,693
+242,Female,20~64,Central Nervous System conditions,Admitted,0,693
+243,Female,20~64,Unknown,Admitted,16,1160
+244,Female,65+,Unknown,Emergency dentist,0,54.13
+245,Male,0~4,Unknown,Discharged,0,173
+246,Female,20~64,Central Nervous System conditions,Admitted,0,693
+247,Female,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+248,Male,20~64,Unknown,Admitted,0,693
+249,Female,0~4,Respiratory conditions,Admitted,16,1160
+250,Male,20~64,Respiratory conditions,Admitted,16,952.13
+251,Female,5~19,Unknown,Not picked up in an ambulance,0,54
+252,Female,5~19,Unknown,Admitted,0,693
+253,Male,5~19,Collapse,Out-patient clinic,0,182.13
+254,Male,20~64,Respiratory conditions,Spoke to a primary care service,0,54.13
+255,Male,20~64,Unknown,Admitted,0,693
+256,Female,20~64,Cardiac conditions,Admitted,16,1160
+257,Male,65+,Unknown,Admitted,0,693
+258,Female,65+,Unknown,Admitted,0,693
+259,Female,65+,Unknown,Admitted,16,1160
+260,Female,20~64,Unknown,Admitted,16,1160
+261,Male,5~19,Unknown,Admitted,16,1160
+262,Male,20~64,Collapse,Admitted,16,952.13
+263,Female,20~64,Unknown,Admitted,16,1160
+264,Male,20~64,Respiratory conditions,Admitted,0,693
+265,Male,20~64,Unknown,Admitted,0,693
+266,Female,20~64,Respiratory conditions,Admitted,0,693
+267,Female,20~64,Unknown,Admitted,0,693
+268,Female,20~64,Respiratory conditions,Spoke to a primary care service,0,54.13
+269,Male,5~19,Respiratory conditions,Admitted,0,693
+270,Male,65+,Falls,Admitted,0,702.13
+271,Female,65+,Unknown,Call Closed,0,9.13
+272,Female,0~4,Unknown,Admitted,0,693
+273,Female,65+,Unknown,Discharged,0,173
+274,Female,20~64,Unknown,Discharged,0,173
+275,Male,5~19,Unknown,Admitted,16,1160
+276,Female,65+,Unknown,OOH,0,54.13
+277,Male,20~64,Unknown,MIU,0,54.13
+278,Female,20~64,Cardiac conditions,Emergency dentist,0,54.13
+279,Male,65+,Respiratory conditions,Admitted,0,693
+280,Male,5~19,Central Nervous System conditions,WIC,0,0
+281,Male,20~64,Unknown,Admitted,16,1160
+282,Female,20~64,Gastrointestinal conditions,Admitted,16,1160
+283,Female,0~4,Respiratory conditions,Admitted,0,693
+284,Female,65+,Unknown,Admitted,0,693
+285,Male,20~64,Collapse,Discharged,16,432.13
+286,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,640
+287,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+288,Male,20~64,Falls,WIC,0,0
+289,Male,65+,Unknown,Admitted,0,693
+290,Male,5~19,Unknown,Admitted,0,693
+291,Male,65+,Unknown,MIU,0,0
+292,Male,0~4,Cardiac conditions,WIC,0,0
+293,Male,20~64,Unknown,Admitted,16,1160
+294,Female,20~64,Unknown,Discharged,0,173
+295,Female,20~64,Unknown,Admitted,0,693
+296,Male,5~19,Unknown,Admitted,0,693
+297,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+298,Female,65+,Unknown,Admitted,16,1160
+299,Male,20~64,Respiratory conditions,Admitted,0,702.13
+300,Male,20~64,Unknown,Admitted,16,952.13
+301,Male,20~64,Unknown,Admitted,16,1160
+302,Male,20~64,Collapse,Out-patient clinic,16,640
+303,Male,5~19,Unknown,WIC,0,0
+304,Female,65+,Respiratory conditions,Admitted,0,693
+305,Male,20~64,Unknown,Emergency dentist,0,54.13
+306,Male,20~64,Unknown,Discharged,0,173
+307,Female,20~64,Respiratory conditions,Admitted,16,1160
+308,Male,5~19,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+309,Male,0~4,Falls,WIC,0,0
+310,Female,0~4,Unknown,Discharged,0,173
+311,Male,5~19,Gastrointestinal conditions,Admitted,0,702.13
+312,Male,20~64,Unknown,Admitted,0,693
+313,Female,65+,Dislocation/fracture/joint injury/amputation,Discharged,16,640
+314,Female,65+,Unknown,Discharged,16,432.13
+315,Male,65+,Central Nervous System conditions,WIC,0,0
+316,Male,20~64,Cardiac conditions,WIC,0,0
+317,Male,20~64,Unknown,Emergency dentist,0,54.13
+318,Male,20~64,Unknown,Admitted,0,693
+319,Female,20~64,Falls,MIU,16,640
+320,Female,5~19,Unknown,Admitted,0,693
+321,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+322,Male,65+,Unknown,Discharged,0,173
+323,Male,65+,Unknown,Emergency dentist,0,54.13
+324,Male,20~64,Unknown,Admitted,0,702.13
+325,Female,20~64,Unknown,Seen by A&E doctor,60,214
+326,Female,20~64,Unknown,Discharged,0,173
+327,Female,20~64,Central Nervous System conditions,Spoke to a primary care service,0,54.13
+328,Male,0~4,Cardiac conditions,Discharged,0,173
+329,Female,65+,Unknown,Not picked up in an ambulance,0,54
+330,Male,20~64,Unknown,Admitted,16,1160
+331,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+332,Male,20~64,Respiratory conditions,Admitted,0,693
+333,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+334,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+335,Female,65+,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+336,Male,20~64,Unknown,Admitted,0,702.13
+337,Male,65+,Unknown,Discharged,0,173
+338,Male,0~4,Unknown,Discharged,0,173
+339,Male,5~19,Unknown,Discharged,0,173
+340,Male,65+,Unknown,Seen by A&E doctor,60,214
+341,Female,0~4,Unknown,Admitted,0,693
+342,Female,65+,Gastrointestinal conditions,Admitted,16,1160
+343,Male,65+,Unknown,Emergency dentist,0,54.13
+344,Female,20~64,Unknown,Admitted,0,693
+345,Male,5~19,Unknown,Admitted,16,952.13
+346,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+347,Male,5~19,Unknown,Admitted,0,693
+348,Male,20~64,Unknown,Admitted,0,693
+349,Male,65+,Unknown,Not picked up in an ambulance,0,54
+350,Male,0~4,Collapse,WIC,0,0
+351,Female,20~64,Unknown,Admitted,0,702.13
+352,Male,20~64,Unknown,Call Closed,0,9.13
+353,Female,20~64,Respiratory conditions,Admitted,0,693
+354,Male,20~64,Unknown,Admitted,0,693
+355,Male,20~64,Gastrointestinal conditions,WIC,0,0
+356,Female,65+,Unknown,Admitted,0,693
+357,Female,65+,Collapse,Discharged,16,432.13
+358,Female,65+,Unknown,Admitted,16,1160
+359,Female,20~64,Unknown,Admitted,16,1160
+360,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+361,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+362,Male,0~4,Unknown,Discharged,0,173
+363,Male,65+,Unknown,Admitted,0,693
+364,Male,65+,Respiratory conditions,Admitted,16,1160
+365,Female,0~4,Falls,WIC,0,0
+366,Female,5~19,Unknown,Admitted,16,1160
+367,Female,20~64,Cardiac conditions,Admitted,16,952.13
+368,Female,20~64,Unknown,Admitted,16,952.13
+369,Female,65+,Unknown,Admitted,0,693
+370,Male,65+,Unknown,Admitted,0,693
+371,Male,20~64,Collapse,WIC,0,0
+372,Male,20~64,Respiratory conditions,Admitted,0,693
+373,Female,20~64,Unknown,Discharged,0,182.13
+374,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+375,Male,20~64,Unknown,MIU,0,0
+376,Female,20~64,Unknown,Admitted,0,693
+377,Male,0~4,Respiratory conditions,Admitted,16,1160
+378,Male,20~64,Unknown,Call Closed,0,9.13
+379,Female,5~19,Unknown,Discharged,0,173
+380,Female,20~64,Central Nervous System conditions,Admitted,0,693
+381,Male,20~64,Unknown,Admitted,16,1160
+382,Male,20~64,Unknown,Admitted,0,693
+383,Female,65+,Unknown,Admitted,0,693
+384,Female,20~64,Unknown,Admitted,16,1160
+385,Female,20~64,Unknown,Admitted,0,693
+386,Male,65+,Unknown,Admitted,0,693
+387,Male,20~64,Unknown,Admitted,0,693
+388,Male,20~64,Unknown,Discharged,16,640
+389,Female,65+,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+390,Female,20~64,Unknown,MIU,0,54.13
+391,Male,20~64,Unknown,Admitted,0,702.13
+392,Male,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+393,Female,20~64,Dislocation/fracture/joint injury/amputation,WIC,0,0
+394,Male,20~64,Unknown,Discharged,0,182.13
+395,Female,5~19,Unknown,Admitted,0,693
+396,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+397,Male,5~19,Unknown,Admitted,0,693
+398,Male,20~64,Unknown,Admitted,16,1160
+399,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,702.13
+400,Female,20~64,Unknown,Discharged,16,640
+401,Male,5~19,Central Nervous System conditions,Admitted,0,702.13
+402,Male,65+,Gastrointestinal conditions,Admitted,0,702.13
+403,Male,20~64,Unknown,Admitted,0,693
+404,Female,20~64,Gastrointestinal conditions,OOH,0,54.13
+405,Female,20~64,Central Nervous System conditions,WIC,0,0
+406,Female,0~4,Unknown,WIC,0,0
+407,Female,20~64,Respiratory conditions,Admitted,0,693
+408,Female,65+,Unknown,Discharged,0,173
+409,Female,20~64,Unknown,OOH,16,640
+410,Male,65+,Collapse,WIC,0,0
+411,Female,20~64,Cardiac conditions,Admitted,0,693
+412,Male,5~19,Cardiac conditions,Admitted,0,693
+413,Female,20~64,Falls,Call Closed,0,9.13
+414,Male,20~64,Cardiac conditions,Admitted,0,693
+415,Male,5~19,Unknown,Admitted,16,1160
+416,Female,0~4,Cardiac conditions,Admitted,0,693
+417,Male,65+,Unknown,Admitted,0,693
+418,Male,5~19,Unknown,Spoke to a primary care service,0,54.13
+419,Male,20~64,Collapse,Not picked up in an ambulance,0,54
+420,Male,20~64,Respiratory conditions,Admitted,0,693
+421,Female,65+,Central Nervous System conditions,Admitted,0,693
+422,Male,20~64,Unknown,Admitted,16,1160
+423,Female,0~4,Unknown,OOH,0,54.13
+424,Male,0~4,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+425,Female,20~64,Respiratory conditions,Admitted,0,693
+426,Male,65+,Unknown,Admitted,0,693
+427,Male,65+,Unknown,Admitted,0,693
+428,Female,0~4,Unknown,Admitted,0,702.13
+429,Male,20~64,Unknown,Admitted,0,693
+430,Female,20~64,Unknown,Discharged,0,173
+431,Male,20~64,Cardiac conditions,Admitted,0,693
+432,Male,0~4,Unknown,Discharged,0,173
+433,Female,5~19,Unknown,Admitted,0,693
+434,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+435,Male,65+,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+436,Female,65+,Unknown,Seen by A&E doctor,60,214
+437,Female,65+,Falls,Admitted,16,1160
+438,Female,20~64,Falls,Not picked up in an ambulance,0,54
+439,Male,0~4,Unknown,Admitted,0,693
+440,Female,20~64,Unknown,WIC,0,0
+441,Male,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,702.13
+442,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,16,640
+443,Male,65+,Unknown,Call Closed,0,9.13
+444,Male,20~64,Unknown,Admitted,0,693
+445,Female,5~19,Unknown,Admitted,0,693
+446,Male,0~4,Unknown,Not picked up in an ambulance,0,54
+447,Female,20~64,Cardiac conditions,Admitted,0,693
+448,Male,20~64,Falls,Call Closed,0,9.13
+449,Female,20~64,Unknown,Call Closed,0,9.13
+450,Female,65+,Unknown,Admitted,0,693
+451,Female,20~64,Unknown,Admitted,0,693
+452,Female,20~64,Unknown,Admitted,0,702.13
+453,Male,20~64,Respiratory conditions,Admitted,16,1160
+454,Male,20~64,Unknown,Discharged,0,173
+455,Female,0~4,Unknown,Admitted,0,693
+456,Female,20~64,Collapse,Admitted,0,702.13
+457,Male,20~64,Unknown,Admitted,0,702.13
+458,Female,5~19,Falls,Call Closed,0,9.13
+459,Female,20~64,Collapse,WIC,0,0
+460,Male,20~64,Unknown,Emergency dentist,0,54.13
+461,Male,5~19,Unknown,MIU,0,54.13
+462,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+463,Male,20~64,Unknown,Seen by A&E doctor,60,214
+464,Female,20~64,Unknown,Admitted,0,693
+465,Female,65+,Collapse,Admitted,16,1160
+466,Male,20~64,Central Nervous System conditions,Admitted,0,693
+467,Female,0~4,Unknown,Not picked up in an ambulance,0,54
+468,Male,20~64,Unknown,Admitted,0,693
+469,Female,0~4,Central Nervous System conditions,Admitted,16,1160
+470,Male,65+,Falls,OOH,0,54.13
+471,Female,65+,Unknown,Admitted,0,702.13
+472,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+473,Male,65+,Central Nervous System conditions,WIC,0,0
+474,Female,65+,Central Nervous System conditions,Discharged,0,173
+475,Female,20~64,Central Nervous System conditions,Admitted,16,1160
+476,Female,20~64,Unknown,Admitted,16,1160
+477,Female,65+,Unknown,Admitted,0,693
+478,Female,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+479,Male,20~64,Unknown,Admitted,0,693
+480,Male,20~64,Unknown,Admitted,16,1160
+481,Male,65+,Falls,Discharged,16,640
+482,Female,20~64,Unknown,Discharged,0,182.13
+483,Female,20~64,Unknown,Call Closed,0,9.13
+484,Female,20~64,Unknown,Admitted,16,1160
+485,Male,20~64,Falls,WIC,0,0
+486,Male,20~64,Cardiac conditions,Admitted,0,693
+487,Female,5~19,Cardiac conditions,Admitted,16,1160
+488,Female,65+,Respiratory conditions,Admitted,0,702.13
+489,Female,0~4,Unknown,Admitted,0,702.13
+490,Male,65+,Unknown,Admitted,0,693
+491,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+492,Male,65+,Gastrointestinal conditions,WIC,0,0
+493,Male,5~19,Unknown,Emergency dentist,0,54.13
+494,Male,20~64,Unknown,Admitted,16,952.13
+495,Male,0~4,Unknown,Admitted,0,693
+496,Female,20~64,Central Nervous System conditions,Call Closed,0,9.13
+497,Male,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+498,Male,20~64,Falls,WIC,0,0
+499,Male,0~4,Central Nervous System conditions,Spoke to a primary care service,0,54.13
+500,Female,20~64,Central Nervous System conditions,WIC,0,0
+501,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+502,Male,5~19,Unknown,Admitted,0,693
+503,Male,65+,Unknown,Admitted,0,702.13
+504,Female,20~64,Unknown,Admitted,0,693
+505,Male,20~64,Collapse,WIC,0,0
+506,Male,65+,Unknown,Admitted,16,1160
+507,Male,20~64,Unknown,Admitted,0,693
+508,Female,20~64,Central Nervous System conditions,Admitted,0,693
+509,Male,0~4,Unknown,Admitted,16,952.13
+510,Male,20~64,Central Nervous System conditions,Admitted,0,693
+511,Male,65+,Unknown,Not picked up in an ambulance,0,54
+512,Female,65+,Falls,Call Closed,0,9.13
+513,Female,20~64,Unknown,Admitted,0,693
+514,Female,65+,Unknown,Admitted,0,693
+515,Male,0~4,Unknown,Admitted,0,693
+516,Female,65+,Gastrointestinal conditions,Admitted,0,693
+517,Female,20~64,Falls,WIC,0,0
+518,Male,65+,Unknown,Admitted,0,693
+519,Male,65+,Unknown,Call Closed,0,9.13
+520,Male,65+,Dislocation/fracture/joint injury/amputation,Out-patient clinic,16,640
+521,Male,5~19,Unknown,Admitted,0,693
+522,Female,20~64,Central Nervous System conditions,Admitted,0,693
+523,Female,20~64,Unknown,Admitted,0,693
+524,Male,5~19,Unknown,Admitted,0,702.13
+525,Female,20~64,Falls,OOH,0,182.13
+526,Male,65+,Collapse,MIU,0,182.13
+527,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+528,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+529,Male,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+530,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+531,Male,20~64,Unknown,Admitted,0,693
+532,Male,20~64,Cardiac conditions,WIC,0,0
+533,Male,20~64,Unknown,Discharged,16,640
+534,Female,20~64,Unknown,Out-patient clinic,0,173
+535,Female,20~64,Unknown,Admitted,0,693
+536,Male,65+,Cardiac conditions,WIC,0,0
+537,Male,20~64,Unknown,Admitted,0,693
+538,Female,0~4,Cardiac conditions,Not picked up in an ambulance,0,54
+539,Female,20~64,Unknown,Admitted,16,1160
+540,Male,65+,Unknown,Admitted,0,693
+541,Female,65+,Respiratory conditions,Admitted,0,693
+542,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+543,Female,20~64,Unknown,Admitted,0,693
+544,Male,65+,Collapse,Not picked up in an ambulance,0,54
+545,Male,5~19,Unknown,Call Closed,0,9.13
+546,Male,20~64,Dislocation/fracture/joint injury/amputation,Emergency dentist,0,54.13
+547,Female,20~64,Unknown,Admitted,0,693
+548,Male,65+,Unknown,Discharged,0,182.13
+549,Female,20~64,Cardiac conditions,Admitted,0,693
+550,Male,20~64,Central Nervous System conditions,Spoke to a primary care service,0,54.13
+551,Female,5~19,Unknown,Admitted,0,693
+552,Male,5~19,Unknown,Admitted,0,693
+553,Male,20~64,Unknown,Admitted,0,693
+554,Female,20~64,Unknown,Admitted,0,693
+555,Female,20~64,Unknown,Admitted,0,693
+556,Male,20~64,Unknown,Admitted,0,693
+557,Male,20~64,Unknown,Emergency dentist,0,54.13
+558,Male,20~64,Unknown,Emergency dentist,0,54.13
+559,Male,20~64,Unknown,Discharged,0,173
+560,Female,0~4,Unknown,Call Closed,0,9.13
+561,Female,20~64,Unknown,Admitted,0,693
+562,Male,20~64,Unknown,Admitted,16,1160
+563,Male,5~19,Unknown,Admitted,16,1160
+564,Male,20~64,Unknown,Admitted,0,693
+565,Female,5~19,Unknown,Admitted,16,1160
+566,Female,20~64,Gastrointestinal conditions,Emergency dentist,0,54.13
+567,Male,65+,Falls,WIC,0,0
+568,Male,65+,Unknown,Admitted,16,1160
+569,Male,20~64,Gastrointestinal conditions,Admitted,16,952.13
+570,Male,65+,Unknown,Discharged,0,173
+571,Male,20~64,Unknown,Admitted,0,693
+572,Female,20~64,Cardiac conditions,Spoke to a primary care service,0,54.13
+573,Female,20~64,Unknown,Admitted,0,693
+574,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+575,Female,5~19,Dislocation/fracture/joint injury/amputation,MIU,16,640
+576,Female,20~64,Falls,WIC,0,0
+577,Female,20~64,Unknown,Admitted,0,693
+578,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+579,Male,20~64,Respiratory conditions,Admitted,16,1160
+580,Male,5~19,Unknown,Spoke to a primary care service,0,54.13
+581,Male,20~64,Gastrointestinal conditions,Admitted,16,952.13
+582,Male,20~64,Unknown,MIU,0,0
+583,Female,0~4,Unknown,MIU,0,0
+584,Male,0~4,Cardiac conditions,Admitted,16,952.13
+585,Female,20~64,Unknown,Discharged,16,640
+586,Female,5~19,Unknown,MIU,0,0
+587,Female,20~64,Unknown,Admitted,0,693
+588,Male,20~64,Unknown,Seen by A&E doctor,76,681
+589,Male,5~19,Collapse,WIC,16,432.13
+590,Male,20~64,Unknown,Admitted,0,693
+591,Male,20~64,Unknown,Admitted,0,693
+592,Female,5~19,Respiratory conditions,Admitted,16,1160
+593,Male,20~64,Unknown,Admitted,0,693
+594,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+595,Male,65+,Gastrointestinal conditions,WIC,0,0
+596,Female,5~19,Unknown,Discharged,0,173
+597,Male,20~64,Unknown,Admitted,0,693
+598,Female,0~4,Unknown,Admitted,0,693
+599,Female,20~64,Respiratory conditions,Admitted,0,693
+600,Female,20~64,Unknown,Admitted,16,1160
+601,Female,65+,Cardiac conditions,Admitted,0,693
+602,Female,20~64,Falls,WIC,0,0
+603,Male,20~64,Unknown,Admitted,16,1160
+604,Female,65+,Unknown,WIC,0,0
+605,Male,20~64,Unknown,Admitted,0,702.13
+606,Male,20~64,Unknown,Admitted,0,693
+607,Male,20~64,Unknown,Call Closed,0,9.13
+608,Male,20~64,Unknown,Admitted,0,693
+609,Female,0~4,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+610,Male,20~64,Unknown,Out-patient clinic,0,182.13
+611,Female,20~64,Unknown,Discharged,0,173
+612,Male,20~64,Unknown,Discharged,0,173
+613,Female,20~64,Unknown,Admitted,0,693
+614,Male,65+,Falls,Admitted,16,1160
+615,Male,20~64,Unknown,Admitted,0,702.13
+616,Male,20~64,Cardiac conditions,Emergency dentist,0,54.13
+617,Female,20~64,Respiratory conditions,Admitted,0,693
+618,Male,5~19,Unknown,MIU,0,54.13
+619,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+620,Male,65+,Gastrointestinal conditions,Admitted,0,693
+621,Female,0~4,Unknown,Admitted,0,693
+622,Female,20~64,Unknown,Admitted,0,693
+623,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,640
+624,Male,20~64,Unknown,Seen by A&E doctor,60,214
+625,Female,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+626,Female,5~19,Central Nervous System conditions,Admitted,0,693
+627,Male,20~64,Unknown,Admitted,16,1160
+628,Female,20~64,Respiratory conditions,Admitted,16,1160
+629,Male,20~64,Unknown,Call Closed,0,9.13
+630,Male,5~19,Unknown,Admitted,16,1160
+631,Female,65+,Collapse,WIC,0,0
+632,Female,65+,Unknown,Emergency dentist,0,54.13
+633,Female,0~4,Unknown,Call Closed,0,9.13
+634,Male,65+,Respiratory conditions,Admitted,0,693
+635,Male,20~64,Unknown,Admitted,0,693
+636,Female,20~64,Central Nervous System conditions,Admitted,0,693
+637,Male,5~19,Unknown,Emergency dentist,0,54.13
+638,Female,65+,Falls,WIC,0,0
+639,Female,20~64,Dislocation/fracture/joint injury/amputation,Discharged,16,640
+640,Female,20~64,Cardiac conditions,Admitted,0,693
+641,Female,5~19,Unknown,Admitted,0,693
+642,Male,5~19,Unknown,Admitted,0,693
+643,Male,5~19,Unknown,Admitted,16,1160
+644,Female,20~64,Unknown,Admitted,16,1160
+645,Female,20~64,Unknown,Admitted,16,1160
+646,Male,65+,Dislocation/fracture/joint injury/amputation,Out-patient clinic,16,432.13
+647,Female,20~64,Unknown,Admitted,0,693
+648,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+649,Male,0~4,Respiratory conditions,WIC,0,0
+650,Male,65+,Cardiac conditions,Admitted,0,693
+651,Male,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+652,Female,65+,Unknown,Seen by A&E doctor,60,214
+653,Female,65+,Unknown,Admitted,16,1160
+654,Female,20~64,Unknown,Admitted,0,693
+655,Female,20~64,Falls,WIC,0,0
+656,Male,65+,Unknown,Admitted,0,693
+657,Female,65+,Falls,Emergency dentist,0,54.13
+658,Female,20~64,Unknown,WIC,0,173
+659,Female,20~64,Unknown,Admitted,16,952.13
+660,Male,20~64,Unknown,Admitted,16,1160
+661,Male,20~64,Respiratory conditions,Admitted,0,693
+662,Female,20~64,Dislocation/fracture/joint injury/amputation,Out-patient clinic,16,640
+663,Female,20~64,Central Nervous System conditions,Admitted,0,693
+664,Female,65+,Unknown,Admitted,0,693
+665,Male,0~4,Unknown,Admitted,0,693
+666,Female,20~64,Unknown,Discharged,0,173
+667,Male,65+,Falls,WIC,0,0
+668,Male,20~64,Cardiac conditions,Not picked up in an ambulance,0,54
+669,Male,5~19,Respiratory conditions,Admitted,16,1160
+670,Male,65+,Unknown,Admitted,0,693
+671,Male,20~64,Respiratory conditions,WIC,0,0
+672,Female,5~19,Respiratory conditions,Admitted,16,1160
+673,Female,20~64,Central Nervous System conditions,Admitted,16,952.13
+674,Male,65+,Unknown,WIC,0,54.13
+675,Male,5~19,Respiratory conditions,Admitted,0,693
+676,Female,5~19,Unknown,Admitted,0,693
+677,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+678,Male,20~64,Unknown,MIU,0,173
+679,Male,20~64,Unknown,MIU,0,54.13
+680,Female,5~19,Falls,Spoke to a primary care service,0,54.13
+681,Female,20~64,Unknown,Admitted,0,693
+682,Male,20~64,Central Nervous System conditions,WIC,0,0
+683,Male,65+,Respiratory conditions,Not picked up in an ambulance,0,54
+684,Female,5~19,Unknown,Admitted,0,693
+685,Male,20~64,Dislocation/fracture/joint injury/amputation,Emergency dentist,0,54.13
+686,Female,20~64,Unknown,Admitted,0,693
+687,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,182.13
+688,Male,0~4,Central Nervous System conditions,Admitted,16,952.13
+689,Male,20~64,Falls,WIC,0,0
+690,Male,65+,Unknown,Call Closed,0,9.13
+691,Female,20~64,Unknown,Call Closed,0,9.13
+692,Female,65+,Respiratory conditions,Admitted,0,693
+693,Male,20~64,Unknown,Emergency dentist,0,54.13
+694,Male,20~64,Unknown,Admitted,16,1160
+695,Male,20~64,Unknown,Admitted,16,1160
+696,Male,20~64,Unknown,WIC,0,54.13
+697,Female,5~19,Gastrointestinal conditions,Admitted,0,693
+698,Male,20~64,Unknown,Admitted,0,702.13
+699,Male,5~19,Respiratory conditions,OOH,0,54.13
+700,Female,5~19,Cardiac conditions,Not picked up in an ambulance,0,54
+701,Male,0~4,Gastrointestinal conditions,Admitted,0,693
+702,Female,65+,Unknown,Admitted,0,693
+703,Male,65+,Unknown,Admitted,16,1160
+704,Male,20~64,Unknown,Admitted,16,1160
+705,Male,65+,Gastrointestinal conditions,Admitted,0,693
+706,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+707,Male,20~64,Unknown,Admitted,0,693
+708,Male,5~19,Falls,WIC,0,0
+709,Female,20~64,Unknown,Admitted,0,693
+710,Male,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+711,Female,20~64,Unknown,Admitted,0,693
+712,Male,20~64,Unknown,Admitted,0,693
+713,Male,65+,Gastrointestinal conditions,Spoke to a primary care service,0,54.13
+714,Female,65+,Respiratory conditions,Admitted,16,1160
+715,Female,20~64,Unknown,Admitted,16,1160
+716,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+717,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+718,Female,20~64,Respiratory conditions,WIC,0,0
+719,Female,20~64,Unknown,Admitted,0,693
+720,Male,65+,Unknown,Admitted,0,693
+721,Female,20~64,Unknown,Admitted,16,1160
+722,Female,20~64,Central Nervous System conditions,Admitted,0,693
+723,Male,5~19,Collapse,Seen by A&E doctor,76,681
+724,Female,20~64,Unknown,Discharged,0,173
+725,Female,0~4,Unknown,Call Closed,0,9.13
+726,Male,20~64,Unknown,Admitted,16,1160
+727,Female,20~64,Collapse,Not picked up in an ambulance,0,54
+728,Male,0~4,Unknown,MIU,0,0
+729,Male,20~64,Unknown,MIU,0,54.13
+730,Male,20~64,Unknown,Admitted,0,693
+731,Male,65+,Unknown,Admitted,0,693
+732,Male,20~64,Unknown,Admitted,16,952.13
+733,Male,20~64,Respiratory conditions,WIC,0,0
+734,Male,5~19,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+735,Male,5~19,Unknown,Admitted,0,693
+736,Female,20~64,Respiratory conditions,Emergency dentist,0,54.13
+737,Female,20~64,Unknown,Admitted,0,693
+738,Male,5~19,Unknown,Seen by A&E doctor,60,214
+739,Female,20~64,Unknown,Admitted,16,1160
+740,Male,65+,Gastrointestinal conditions,Admitted,0,693
+741,Female,20~64,Central Nervous System conditions,Admitted,0,693
+742,Male,0~4,Unknown,Emergency dentist,0,54.13
+743,Male,0~4,Falls,MIU,0,182.13
+744,Female,20~64,Unknown,Emergency dentist,0,54.13
+745,Female,5~19,Unknown,Admitted,16,1160
+746,Female,20~64,Unknown,Call Closed,0,9.13
+747,Male,20~64,Cardiac conditions,Admitted,16,1160
+748,Male,20~64,Unknown,Admitted,16,1160
+749,Male,20~64,Respiratory conditions,Admitted,0,693
+750,Female,20~64,Unknown,Admitted,0,693
+751,Male,0~4,Unknown,Admitted,0,693
+752,Male,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+753,Male,65+,Central Nervous System conditions,Call Closed,0,9.13
+754,Female,20~64,Unknown,Admitted,0,693
+755,Male,20~64,Unknown,Seen by A&E doctor,76,473.13
+756,Female,0~4,Unknown,Admitted,0,693
+757,Female,65+,Gastrointestinal conditions,Admitted,0,693
+758,Male,0~4,Unknown,Admitted,0,693
+759,Female,20~64,Unknown,Call Closed,0,9.13
+760,Male,20~64,Unknown,Admitted,0,693
+761,Male,5~19,Central Nervous System conditions,Not picked up in an ambulance,0,54
+762,Male,5~19,Central Nervous System conditions,WIC,0,0
+763,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+764,Male,5~19,Falls,Emergency dentist,0,54.13
+765,Male,20~64,Respiratory conditions,Admitted,16,952.13
+766,Female,20~64,Unknown,Discharged,0,173
+767,Male,20~64,Unknown,WIC,0,0
+768,Female,20~64,Falls,WIC,0,54.13
+769,Male,20~64,Unknown,Call Closed,0,9.13
+770,Male,20~64,Unknown,Admitted,0,693
+771,Male,65+,Respiratory conditions,Admitted,0,693
+772,Male,20~64,Unknown,Admitted,16,1160
+773,Male,20~64,Cardiac conditions,Admitted,16,1160
+774,Male,0~4,Respiratory conditions,Admitted,0,693
+775,Female,20~64,Falls,WIC,0,0
+776,Male,20~64,Respiratory conditions,Admitted,0,693
+777,Male,20~64,Unknown,Admitted,0,693
+778,Male,5~19,Unknown,Admitted,16,1160
+779,Male,20~64,Unknown,Admitted,16,1160
+780,Female,20~64,Respiratory conditions,Admitted,0,693
+781,Male,20~64,Respiratory conditions,Admitted,16,1160
+782,Female,65+,Unknown,Call Closed,0,9.13
+783,Male,0~4,Unknown,Admitted,0,702.13
+784,Male,20~64,Collapse,WIC,0,0
+785,Female,0~4,Unknown,Admitted,0,693
+786,Female,5~19,Unknown,Admitted,0,693
+787,Female,65+,Unknown,Admitted,0,693
+788,Female,20~64,Central Nervous System conditions,WIC,0,0
+789,Female,0~4,Cardiac conditions,Emergency dentist,0,54.13
+790,Male,20~64,Unknown,Discharged,0,173
+791,Male,5~19,Unknown,Admitted,0,693
+792,Female,0~4,Unknown,Discharged,16,640
+793,Female,20~64,Falls,WIC,0,0
+794,Female,65+,Unknown,Call Closed,0,9.13
+795,Male,65+,Falls,WIC,0,0
+796,Female,20~64,Cardiac conditions,Admitted,16,1160
+797,Male,5~19,Unknown,Admitted,0,693
+798,Male,20~64,Unknown,Admitted,0,693
+799,Male,0~4,Unknown,MIU,0,173
+800,Female,0~4,Unknown,Call Closed,0,9.13
+801,Male,20~64,Unknown,Admitted,0,693
+802,Female,65+,Unknown,Admitted,0,693
+803,Female,65+,Unknown,Admitted,0,693
+804,Male,20~64,Unknown,Admitted,0,693
+805,Male,20~64,Unknown,Admitted,0,693
+806,Male,20~64,Unknown,Admitted,16,1160
+807,Female,20~64,Dislocation/fracture/joint injury/amputation,WIC,0,0
+808,Male,0~4,Cardiac conditions,Admitted,0,693
+809,Male,20~64,Falls,WIC,0,0
+810,Female,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+811,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+812,Male,20~64,Falls,WIC,0,0
+813,Male,20~64,Unknown,Admitted,16,1160
+814,Female,20~64,Cardiac conditions,Admitted,0,693
+815,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+816,Female,0~4,Unknown,Admitted,16,952.13
+817,Female,5~19,Unknown,Admitted,16,1160
+818,Female,5~19,Unknown,Admitted,0,693
+819,Male,5~19,Collapse,Call Closed,0,9.13
+820,Female,65+,Respiratory conditions,Admitted,16,1160
+821,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+822,Female,20~64,Unknown,Admitted,0,693
+823,Male,20~64,Cardiac conditions,Spoke to a primary care service,0,54.13
+824,Female,20~64,Unknown,Admitted,0,693
+825,Male,0~4,Unknown,Admitted,16,952.13
+826,Male,0~4,Unknown,Admitted,0,693
+827,Male,20~64,Respiratory conditions,Admitted,0,693
+828,Male,20~64,Cardiac conditions,Out-patient clinic,16,640
+829,Male,65+,Cardiac conditions,WIC,0,54.13
+830,Male,20~64,Central Nervous System conditions,OOH,0,54.13
+831,Male,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+832,Female,20~64,Falls,WIC,0,0
+833,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+834,Female,5~19,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+835,Male,65+,Respiratory conditions,Admitted,0,693
+836,Female,5~19,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+837,Female,65+,Unknown,Admitted,0,693
+838,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,432.13
+839,Male,65+,Unknown,Admitted,0,693
+840,Female,5~19,Unknown,Discharged,0,173
+841,Male,65+,Unknown,Admitted,16,1160
+842,Male,5~19,Unknown,Admitted,0,693
+843,Male,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+844,Female,20~64,Central Nervous System conditions,OOH,0,54.13
+845,Male,20~64,Unknown,Admitted,0,693
+846,Female,20~64,Respiratory conditions,Admitted,16,1160
+847,Male,20~64,Respiratory conditions,Admitted,0,693
+848,Female,20~64,Central Nervous System conditions,WIC,0,0
+849,Male,20~64,Unknown,Admitted,16,1160
+850,Female,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+851,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+852,Male,20~64,Unknown,Discharged,16,640
+853,Male,20~64,Unknown,Call Closed,0,9.13
+854,Female,20~64,Respiratory conditions,Call Closed,0,9.13
+855,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+856,Male,20~64,Unknown,Admitted,0,693
+857,Male,20~64,Unknown,Admitted,16,1160
+858,Female,65+,Unknown,Call Closed,0,9.13
+859,Female,20~64,Unknown,Admitted,0,693
+860,Male,5~19,Collapse,Discharged,16,640
+861,Female,65+,Respiratory conditions,WIC,0,0
+862,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+863,Female,20~64,Unknown,MIU,0,54.13
+864,Male,20~64,Falls,Seen by A&E doctor,76,681
+865,Female,65+,Cardiac conditions,WIC,0,0
+866,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+867,Male,5~19,Respiratory conditions,Not picked up in an ambulance,0,54
+868,Female,20~64,Unknown,Discharged,0,173
+869,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+870,Male,20~64,Cardiac conditions,Not picked up in an ambulance,0,54
+871,Male,20~64,Unknown,Admitted,0,693
+872,Male,20~64,Unknown,WIC,16,640
+873,Female,65+,Gastrointestinal conditions,Admitted,0,693
+874,Female,0~4,Unknown,Discharged,0,173
+875,Male,20~64,Unknown,Admitted,0,693
+876,Female,20~64,Unknown,Admitted,16,1160
+877,Male,20~64,Falls,WIC,0,0
+878,Male,65+,Unknown,Admitted,0,693
+879,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+880,Male,20~64,Unknown,Admitted,0,693
+881,Female,65+,Unknown,Admitted,0,693
+882,Male,20~64,Central Nervous System conditions,Admitted,16,952.13
+883,Female,20~64,Unknown,Admitted,0,693
+884,Male,0~4,Unknown,MIU,0,0
+885,Male,20~64,Unknown,Admitted,16,1160
+886,Female,20~64,Falls,WIC,0,0
+887,Female,20~64,Unknown,Admitted,16,1160
+888,Male,5~19,Falls,WIC,0,0
+889,Female,65+,Unknown,Admitted,0,693
+890,Male,20~64,Unknown,Admitted,0,693
+891,Female,65+,Unknown,Admitted,16,1160
+892,Female,5~19,Unknown,Discharged,0,173
+893,Female,20~64,Unknown,Admitted,16,1160
+894,Male,5~19,Cardiac conditions,Admitted,0,693
+895,Male,20~64,Respiratory conditions,Admitted,0,693
+896,Female,20~64,Unknown,Admitted,16,1160
+897,Female,65+,Unknown,Not picked up in an ambulance,0,54
+898,Male,65+,Unknown,Admitted,0,693
+899,Male,5~19,Unknown,Discharged,0,173
+900,Male,65+,Unknown,Admitted,0,693
+901,Male,65+,Cardiac conditions,Admitted,0,693
+902,Male,5~19,Unknown,Admitted,16,1160
+903,Male,5~19,Cardiac conditions,Admitted,16,1160
+904,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,432.13
+905,Male,65+,Respiratory conditions,Admitted,0,693
+906,Female,20~64,Unknown,Admitted,0,702.13
+907,Male,20~64,Gastrointestinal conditions,Admitted,0,702.13
+908,Male,65+,Respiratory conditions,Admitted,16,1160
+909,Male,5~19,Collapse,Not picked up in an ambulance,0,54
+910,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+911,Male,20~64,Unknown,Admitted,16,1160
+912,Female,65+,Unknown,Admitted,0,693
+913,Female,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+914,Female,20~64,Unknown,Admitted,0,693
+915,Female,65+,Unknown,Admitted,16,1160
+916,Male,0~4,Unknown,MIU,0,54.13
+917,Male,20~64,Unknown,Admitted,16,1160
+918,Male,0~4,Unknown,MIU,16,640
+919,Male,20~64,Cardiac conditions,WIC,0,0
+920,Female,20~64,Respiratory conditions,Admitted,16,1160
+921,Male,65+,Unknown,Admitted,0,693
+922,Male,5~19,Central Nervous System conditions,Discharged,0,173
+923,Female,20~64,Collapse,WIC,0,54.13
+924,Male,65+,Unknown,Discharged,0,173
+925,Male,20~64,Unknown,Admitted,0,693
+926,Female,20~64,Unknown,Admitted,16,1160
+927,Male,20~64,Unknown,Admitted,0,693
+928,Female,20~64,Unknown,Emergency dentist,0,54.13
+929,Female,20~64,Cardiac conditions,WIC,0,0
+930,Male,20~64,Unknown,Admitted,0,693
+931,Male,20~64,Unknown,Admitted,16,1160
+932,Female,20~64,Unknown,Admitted,0,693
+933,Male,20~64,Cardiac conditions,Admitted,0,693
+934,Male,65+,Unknown,MIU,16,640
+935,Female,65+,Falls,Discharged,16,640
+936,Female,20~64,Falls,MIU,16,640
+937,Female,0~4,Gastrointestinal conditions,Admitted,0,693
+938,Female,20~64,Unknown,Call Closed,0,9.13
+939,Male,65+,Unknown,Admitted,16,1160
+940,Female,20~64,Dislocation/fracture/joint injury/amputation,Discharged,16,640
+941,Male,65+,Central Nervous System conditions,Admitted,16,1160
+942,Male,20~64,Falls,WIC,0,0
+943,Female,20~64,Unknown,Admitted,0,693
+944,Female,20~64,Unknown,Emergency dentist,0,54.13
+945,Male,20~64,Collapse,WIC,16,640
+946,Female,0~4,Collapse,Not picked up in an ambulance,0,54
+947,Male,20~64,Unknown,Admitted,0,693
+948,Female,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+949,Female,0~4,Central Nervous System conditions,Spoke to a primary care service,0,54.13
+950,Male,20~64,Respiratory conditions,WIC,0,0
+951,Female,65+,Unknown,Admitted,16,1160
+952,Male,0~4,Unknown,Admitted,0,693
+953,Female,20~64,Respiratory conditions,Admitted,0,702.13
+954,Female,20~64,Unknown,Discharged,16,640
+955,Male,65+,Unknown,Admitted,16,1160
+956,Male,65+,Unknown,Admitted,0,693
+957,Female,65+,Unknown,Not picked up in an ambulance,0,54
+958,Male,20~64,Respiratory conditions,Admitted,0,693
+959,Male,20~64,Unknown,Admitted,0,693
+960,Female,20~64,Unknown,Admitted,0,693
+961,Male,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+962,Male,20~64,Unknown,MIU,0,0
+963,Male,20~64,Respiratory conditions,Admitted,16,952.13
+964,Female,65+,Central Nervous System conditions,Admitted,0,702.13
+965,Female,0~4,Respiratory conditions,Admitted,0,693
+966,Female,20~64,Respiratory conditions,Admitted,0,693
+967,Male,20~64,Falls,Spoke to a primary care service,0,54.13
+968,Female,20~64,Unknown,Admitted,0,693
+969,Female,65+,Cardiac conditions,Admitted,0,693
+970,Female,5~19,Unknown,Spoke to a primary care service,0,54.13
+971,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+972,Male,65+,Unknown,Call Closed,0,9.13
+973,Male,20~64,Unknown,Admitted,0,693
+974,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+975,Female,20~64,Unknown,Admitted,16,1160
+976,Female,65+,Unknown,Seen by A&E doctor,60,214
+977,Male,65+,Unknown,Admitted,0,693
+978,Male,20~64,Unknown,Admitted,16,1160
+979,Male,20~64,Unknown,Discharged,0,173
+980,Male,65+,Unknown,Admitted,16,1160
+981,Male,20~64,Unknown,Admitted,0,693
+982,Male,65+,Respiratory conditions,Spoke to a primary care service,0,54.13
+983,Male,20~64,Respiratory conditions,Call Closed,0,9.13
+984,Male,20~64,Respiratory conditions,Admitted,0,693
+985,Male,0~4,Unknown,Admitted,0,693
+986,Male,5~19,Unknown,Admitted,0,693
+987,Male,65+,Cardiac conditions,WIC,0,0
+988,Male,20~64,Cardiac conditions,WIC,0,0
+989,Female,20~64,Unknown,MIU,0,54.13
+990,Female,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+991,Female,20~64,Falls,WIC,0,0
+992,Male,20~64,Unknown,Discharged,0,173
+993,Female,0~4,Unknown,Admitted,16,952.13
+994,Male,20~64,Collapse,WIC,0,0
+995,Female,20~64,Respiratory conditions,Admitted,16,1160
+996,Male,20~64,Gastrointestinal conditions,Admitted,16,1160
+997,Male,65+,Collapse,WIC,0,0
+998,Female,65+,Unknown,Admitted,16,1160
+999,Female,20~64,Unknown,Admitted,0,693
+1000,Male,5~19,Unknown,Admitted,16,1160
+1001,Male,20~64,Respiratory conditions,Admitted,0,693
+1002,Male,20~64,Unknown,MIU,0,0
+1003,Male,20~64,Unknown,Admitted,0,693
+1004,Female,65+,Unknown,MIU,0,0
+1005,Female,65+,Cardiac conditions,OOH,0,54.13
+1006,Female,65+,Cardiac conditions,Admitted,16,1160
+1007,Male,20~64,Unknown,Admitted,0,693
+1008,Male,5~19,Unknown,Emergency dentist,0,54.13
+1009,Female,20~64,Unknown,Discharged,0,173
+1010,Female,20~64,Unknown,Discharged,16,640
+1011,Male,5~19,Cardiac conditions,Admitted,0,693
+1012,Female,65+,Respiratory conditions,Admitted,0,693
+1013,Male,20~64,Unknown,Out-patient clinic,0,173
+1014,Male,5~19,Cardiac conditions,Admitted,0,693
+1015,Male,20~64,Unknown,Admitted,0,693
+1016,Female,5~19,Unknown,Admitted,0,693
+1017,Male,65+,Unknown,Admitted,0,693
+1018,Female,5~19,Unknown,Admitted,0,693
+1019,Female,65+,Unknown,Admitted,16,1160
+1020,Male,65+,Collapse,WIC,0,0
+1021,Female,20~64,Unknown,Admitted,0,693
+1022,Female,20~64,Unknown,Admitted,0,693
+1023,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+1024,Male,0~4,Unknown,Admitted,16,1160
+1025,Female,20~64,Central Nervous System conditions,Call Closed,0,9.13
+1026,Female,20~64,Unknown,Admitted,0,702.13
+1027,Male,20~64,Falls,WIC,0,0
+1028,Male,0~4,Collapse,WIC,0,0
+1029,Female,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1030,Female,65+,Collapse,Not picked up in an ambulance,0,54
+1031,Male,5~19,Unknown,Admitted,0,702.13
+1032,Male,20~64,Respiratory conditions,WIC,0,54.13
+1033,Male,20~64,Collapse,WIC,0,0
+1034,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1035,Male,20~64,Gastrointestinal conditions,Admitted,16,1160
+1036,Male,20~64,Falls,OOH,16,640
+1037,Female,65+,Respiratory conditions,Admitted,16,1160
+1038,Female,20~64,Unknown,Admitted,16,1160
+1039,Male,65+,Unknown,Admitted,0,693
+1040,Female,20~64,Falls,Seen by A&E doctor,60,223.13
+1041,Female,20~64,Unknown,Admitted,0,702.13
+1042,Male,5~19,Respiratory conditions,Admitted,0,693
+1043,Female,0~4,Unknown,Admitted,16,952.13
+1044,Male,20~64,Respiratory conditions,WIC,0,0
+1045,Male,5~19,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1046,Female,65+,Unknown,Admitted,16,1160
+1047,Female,65+,Collapse,WIC,0,0
+1048,Female,65+,Gastrointestinal conditions,Call Closed,0,9.13
+1049,Female,5~19,Unknown,Spoke to a primary care service,0,54.13
+1050,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+1051,Female,20~64,Unknown,Admitted,0,693
+1052,Female,20~64,Unknown,WIC,0,0
+1053,Male,20~64,Cardiac conditions,Admitted,0,693
+1054,Female,20~64,Unknown,Admitted,0,693
+1055,Male,20~64,Unknown,Admitted,0,693
+1056,Male,0~4,Central Nervous System conditions,Admitted,16,1160
+1057,Male,0~4,Collapse,Not picked up in an ambulance,0,54
+1058,Female,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1059,Female,0~4,Unknown,WIC,0,54.13
+1060,Female,65+,Unknown,Admitted,16,952.13
+1061,Female,20~64,Unknown,Admitted,0,693
+1062,Male,0~4,Unknown,Discharged,0,173
+1063,Male,65+,Central Nervous System conditions,Admitted,16,952.13
+1064,Female,20~64,Respiratory conditions,Call Closed,0,9.13
+1065,Male,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1066,Male,20~64,Unknown,Admitted,0,693
+1067,Male,65+,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+1068,Male,20~64,Unknown,Admitted,0,693
+1069,Female,65+,Unknown,Admitted,0,693
+1070,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1071,Female,65+,Unknown,Emergency dentist,0,54.13
+1072,Female,20~64,Unknown,WIC,0,0
+1073,Female,5~19,Unknown,Admitted,16,1160
+1074,Male,0~4,Unknown,Admitted,0,693
+1075,Male,5~19,Dislocation/fracture/joint injury/amputation,Admitted,0,702.13
+1076,Female,5~19,Unknown,Discharged,0,173
+1077,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1078,Male,65+,Unknown,Admitted,0,693
+1079,Female,20~64,Collapse,WIC,0,0
+1080,Female,20~64,Respiratory conditions,Out-patient clinic,16,640
+1081,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1082,Male,20~64,Falls,WIC,0,0
+1083,Female,20~64,Unknown,Call Closed,0,9.13
+1084,Female,20~64,Central Nervous System conditions,Emergency dentist,0,54.13
+1085,Male,20~64,Unknown,Admitted,0,693
+1086,Female,20~64,Collapse,WIC,0,0
+1087,Female,5~19,Falls,WIC,0,0
+1088,Female,65+,Unknown,Admitted,0,693
+1089,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+1090,Male,65+,Unknown,Not picked up in an ambulance,0,54
+1091,Female,65+,Respiratory conditions,Admitted,16,1160
+1092,Female,20~64,Unknown,Discharged,0,182.13
+1093,Female,20~64,Unknown,Call Closed,0,9.13
+1094,Male,20~64,Unknown,Emergency dentist,0,54.13
+1095,Female,5~19,Dislocation/fracture/joint injury/amputation,MIU,16,640
+1096,Female,20~64,Unknown,Emergency dentist,0,54.13
+1097,Female,65+,Unknown,Admitted,0,693
+1098,Female,20~64,Unknown,Discharged,16,640
+1099,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,16,640
+1100,Male,65+,Respiratory conditions,Call Closed,0,9.13
+1101,Female,5~19,Cardiac conditions,WIC,0,0
+1102,Male,20~64,Unknown,Seen by A&E doctor,60,214
+1103,Male,65+,Dislocation/fracture/joint injury/amputation,Discharged,16,640
+1104,Female,65+,Respiratory conditions,WIC,0,0
+1105,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+1106,Male,65+,Unknown,Discharged,0,173
+1107,Male,0~4,Unknown,Admitted,0,693
+1108,Female,5~19,Cardiac conditions,Admitted,0,693
+1109,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+1110,Female,20~64,Unknown,Admitted,0,693
+1111,Female,5~19,Gastrointestinal conditions,Admitted,0,693
+1112,Female,20~64,Unknown,Admitted,16,1160
+1113,Female,5~19,Unknown,Admitted,0,693
+1114,Male,20~64,Unknown,Admitted,0,693
+1115,Male,65+,Cardiac conditions,Not picked up in an ambulance,0,54
+1116,Female,5~19,Unknown,MIU,0,0
+1117,Female,20~64,Collapse,WIC,0,0
+1118,Male,20~64,Central Nervous System conditions,WIC,0,0
+1119,Male,5~19,Unknown,Call Closed,0,9.13
+1120,Female,65+,Falls,Seen by A&E doctor,76,473.13
+1121,Male,20~64,Unknown,Admitted,0,693
+1122,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+1123,Male,5~19,Unknown,Admitted,0,693
+1124,Male,20~64,Unknown,Admitted,16,1160
+1125,Male,65+,Cardiac conditions,Admitted,0,693
+1126,Female,20~64,Falls,Admitted,16,1160
+1127,Male,20~64,Central Nervous System conditions,Call Closed,0,9.13
+1128,Male,20~64,Unknown,Admitted,16,952.13
+1129,Male,20~64,Unknown,Admitted,0,702.13
+1130,Male,20~64,Unknown,Discharged,0,173
+1131,Female,5~19,Unknown,Admitted,0,693
+1132,Male,5~19,Unknown,Admitted,0,693
+1133,Male,65+,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1134,Male,65+,Central Nervous System conditions,WIC,0,0
+1135,Male,5~19,Unknown,Admitted,0,693
+1136,Female,20~64,Central Nervous System conditions,Admitted,0,693
+1137,Female,20~64,Unknown,Admitted,0,702.13
+1138,Male,65+,Cardiac conditions,Admitted,16,1160
+1139,Female,0~4,Unknown,Admitted,0,693
+1140,Female,20~64,Unknown,Admitted,0,693
+1141,Male,20~64,Unknown,Emergency dentist,0,54.13
+1142,Male,0~4,Respiratory conditions,WIC,0,0
+1143,Male,20~64,Unknown,Admitted,0,693
+1144,Female,20~64,Unknown,Admitted,16,1160
+1145,Female,20~64,Respiratory conditions,Admitted,0,693
+1146,Female,20~64,Unknown,Admitted,16,1160
+1147,Female,20~64,Unknown,Admitted,16,1160
+1148,Female,20~64,Unknown,Admitted,0,693
+1149,Female,5~19,Unknown,Admitted,16,1160
+1150,Female,5~19,Central Nervous System conditions,OOH,0,54.13
+1151,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1152,Female,65+,Central Nervous System conditions,Discharged,0,182.13
+1153,Male,0~4,Unknown,Admitted,0,693
+1154,Male,20~64,Unknown,Admitted,0,693
+1155,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1156,Female,0~4,Cardiac conditions,Admitted,16,1160
+1157,Female,20~64,Central Nervous System conditions,Admitted,0,693
+1158,Female,65+,Unknown,WIC,0,0
+1159,Male,20~64,Falls,Discharged,16,432.13
+1160,Female,20~64,Respiratory conditions,Admitted,0,693
+1161,Female,65+,Cardiac conditions,Admitted,0,693
+1162,Male,20~64,Cardiac conditions,Admitted,0,693
+1163,Female,5~19,Unknown,Discharged,0,173
+1164,Female,20~64,Falls,Not picked up in an ambulance,0,54
+1165,Female,20~64,Collapse,MIU,0,54.13
+1166,Male,20~64,Unknown,Admitted,0,693
+1167,Female,65+,Unknown,Call Closed,0,9.13
+1168,Female,20~64,Central Nervous System conditions,WIC,0,0
+1169,Male,20~64,Unknown,MIU,0,0
+1170,Female,20~64,Falls,WIC,0,0
+1171,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1172,Male,0~4,Unknown,Discharged,0,173
+1173,Male,65+,Unknown,Admitted,0,693
+1174,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,182.13
+1175,Male,20~64,Unknown,Discharged,16,640
+1176,Male,65+,Unknown,Admitted,0,702.13
+1177,Female,20~64,Unknown,Discharged,16,640
+1178,Female,65+,Unknown,Admitted,0,702.13
+1179,Male,20~64,Unknown,Discharged,0,173
+1180,Female,20~64,Unknown,Admitted,0,693
+1181,Male,20~64,Cardiac conditions,Admitted,0,693
+1182,Female,5~19,Unknown,MIU,0,54.13
+1183,Female,65+,Unknown,MIU,0,54.13
+1184,Female,20~64,Unknown,Admitted,16,1160
+1185,Female,20~64,Unknown,Admitted,0,693
+1186,Female,20~64,Unknown,Call Closed,0,9.13
+1187,Male,65+,Unknown,Admitted,0,693
+1188,Male,20~64,Cardiac conditions,Discharged,16,640
+1189,Female,5~19,Unknown,Admitted,0,693
+1190,Male,5~19,Unknown,Not picked up in an ambulance,0,54
+1191,Female,5~19,Unknown,Admitted,0,693
+1192,Female,20~64,Cardiac conditions,Call Closed,0,9.13
+1193,Male,20~64,Respiratory conditions,Admitted,0,693
+1194,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+1195,Male,65+,Cardiac conditions,Admitted,16,1160
+1196,Female,20~64,Unknown,MIU,0,0
+1197,Female,20~64,Unknown,Admitted,0,693
+1198,Male,5~19,Unknown,Admitted,0,693
+1199,Female,20~64,Falls,WIC,0,0
+1200,Male,65+,Unknown,Admitted,0,693
+1201,Male,20~64,Respiratory conditions,Admitted,0,693
+1202,Male,65+,Unknown,Admitted,0,693
+1203,Female,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+1204,Male,5~19,Collapse,Spoke to a primary care service,0,54.13
+1205,Female,65+,Falls,WIC,0,0
+1206,Male,20~64,Unknown,Admitted,16,1160
+1207,Male,20~64,Respiratory conditions,Admitted,0,693
+1208,Female,65+,Unknown,Discharged,16,640
+1209,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1210,Male,0~4,Gastrointestinal conditions,Admitted,0,702.13
+1211,Male,65+,Unknown,Admitted,0,693
+1212,Male,65+,Unknown,Emergency dentist,0,54.13
+1213,Male,5~19,Unknown,Admitted,16,1160
+1214,Female,20~64,Unknown,Admitted,0,693
+1215,Male,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1216,Female,20~64,Unknown,Admitted,0,693
+1217,Female,20~64,Respiratory conditions,Admitted,16,1160
+1218,Female,20~64,Unknown,Admitted,0,693
+1219,Male,20~64,Unknown,WIC,0,0
+1220,Male,20~64,Unknown,MIU,0,0
+1221,Male,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1222,Male,65+,Unknown,Admitted,0,693
+1223,Female,65+,Unknown,Admitted,0,693
+1224,Male,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+1225,Female,5~19,Unknown,Admitted,0,693
+1226,Female,20~64,Unknown,Discharged,16,640
+1227,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+1228,Male,65+,Unknown,Admitted,16,1160
+1229,Male,65+,Unknown,Discharged,0,173
+1230,Male,65+,Unknown,Admitted,16,1160
+1231,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1232,Female,20~64,Unknown,Admitted,16,1160
+1233,Female,20~64,Central Nervous System conditions,Call Closed,0,9.13
+1234,Female,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+1235,Male,65+,Unknown,Not picked up in an ambulance,0,54
+1236,Male,20~64,Unknown,MIU,0,0
+1237,Male,65+,Unknown,Admitted,0,693
+1238,Female,5~19,Gastrointestinal conditions,Admitted,0,693
+1239,Male,5~19,Unknown,Admitted,16,1160
+1240,Male,0~4,Unknown,Discharged,0,173
+1241,Female,20~64,Cardiac conditions,Admitted,16,1160
+1242,Female,20~64,Unknown,Admitted,16,952.13
+1243,Male,20~64,Unknown,WIC,0,0
+1244,Male,65+,Unknown,Admitted,0,693
+1245,Male,20~64,Cardiac conditions,Admitted,0,693
+1246,Male,20~64,Unknown,Admitted,0,693
+1247,Male,0~4,Unknown,Spoke to a primary care service,0,54.13
+1248,Male,65+,Unknown,Admitted,0,693
+1249,Female,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1250,Female,20~64,Gastrointestinal conditions,Admitted,16,952.13
+1251,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+1252,Male,20~64,Respiratory conditions,Admitted,16,1160
+1253,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+1254,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+1255,Male,20~64,Respiratory conditions,Admitted,0,702.13
+1256,Female,20~64,Unknown,Admitted,0,693
+1257,Male,65+,Unknown,Admitted,0,693
+1258,Female,65+,Unknown,Admitted,0,693
+1259,Female,5~19,Dislocation/fracture/joint injury/amputation,Admitted,16,952.13
+1260,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1261,Male,0~4,Respiratory conditions,WIC,0,0
+1262,Male,0~4,Cardiac conditions,Admitted,16,952.13
+1263,Female,5~19,Unknown,WIC,0,0
+1264,Female,5~19,Unknown,Admitted,0,693
+1265,Male,20~64,Respiratory conditions,Call Closed,0,9.13
+1266,Female,65+,Unknown,Admitted,16,1160
+1267,Male,20~64,Unknown,Admitted,16,1160
+1268,Female,0~4,Unknown,Admitted,16,952.13
+1269,Female,5~19,Unknown,Admitted,0,693
+1270,Female,20~64,Unknown,Discharged,0,182.13
+1271,Female,20~64,Unknown,Admitted,16,1160
+1272,Female,20~64,Unknown,Admitted,0,693
+1273,Male,20~64,Central Nervous System conditions,Call Closed,0,9.13
+1274,Female,5~19,Dislocation/fracture/joint injury/amputation,Discharged,16,432.13
+1275,Male,65+,Collapse,Out-patient clinic,0,182.13
+1276,Female,5~19,Unknown,Admitted,16,952.13
+1277,Female,20~64,Respiratory conditions,Admitted,16,952.13
+1278,Male,5~19,Dislocation/fracture/joint injury/amputation,Discharged,0,182.13
+1279,Male,65+,Unknown,Admitted,16,1160
+1280,Male,20~64,Unknown,Discharged,0,173
+1281,Male,20~64,Respiratory conditions,Admitted,0,693
+1282,Female,20~64,Unknown,Admitted,0,693
+1283,Male,0~4,Falls,WIC,0,0
+1284,Female,20~64,Cardiac conditions,WIC,0,0
+1285,Female,20~64,Respiratory conditions,Admitted,0,693
+1286,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1287,Female,20~64,Unknown,Admitted,0,693
+1288,Male,20~64,Respiratory conditions,Admitted,16,1160
+1289,Female,0~4,Respiratory conditions,Admitted,0,693
+1290,Female,20~64,Collapse,Spoke to a primary care service,0,54.13
+1291,Female,20~64,Unknown,Emergency dentist,0,54.13
+1292,Male,65+,Unknown,Out-patient clinic,0,173
+1293,Male,20~64,Unknown,Admitted,0,693
+1294,Female,20~64,Unknown,Admitted,0,693
+1295,Male,20~64,Unknown,Admitted,0,693
+1296,Male,65+,Unknown,Admitted,0,693
+1297,Female,5~19,Gastrointestinal conditions,Admitted,16,1160
+1298,Male,65+,Unknown,Discharged,16,432.13
+1299,Female,20~64,Gastrointestinal conditions,Admitted,0,693
+1300,Male,20~64,Unknown,Admitted,16,1160
+1301,Male,65+,Unknown,Emergency dentist,0,54.13
+1302,Male,0~4,Unknown,Admitted,0,693
+1303,Male,5~19,Central Nervous System conditions,Admitted,0,693
+1304,Female,20~64,Unknown,Admitted,0,693
+1305,Female,20~64,Unknown,Admitted,16,1160
+1306,Male,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+1307,Female,20~64,Unknown,Admitted,0,693
+1308,Female,65+,Unknown,Admitted,0,702.13
+1309,Male,20~64,Unknown,Admitted,16,1160
+1310,Male,20~64,Gastrointestinal conditions,Admitted,0,702.13
+1311,Male,20~64,Unknown,Admitted,0,693
+1312,Female,65+,Central Nervous System conditions,WIC,0,0
+1313,Female,65+,Unknown,Emergency dentist,0,54.13
+1314,Male,5~19,Unknown,Admitted,16,1160
+1315,Female,65+,Unknown,Admitted,0,693
+1316,Male,20~64,Unknown,Admitted,0,693
+1317,Female,65+,Unknown,Call Closed,0,9.13
+1318,Female,0~4,Unknown,Admitted,0,693
+1319,Male,5~19,Unknown,Admitted,0,693
+1320,Female,20~64,Dislocation/fracture/joint injury/amputation,WIC,0,0
+1321,Female,65+,Unknown,WIC,0,0
+1322,Female,20~64,Dislocation/fracture/joint injury/amputation,WIC,0,0
+1323,Male,0~4,Unknown,Discharged,16,640
+1324,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+1325,Female,20~64,Unknown,Admitted,0,693
+1326,Female,65+,Unknown,Discharged,16,640
+1327,Male,20~64,Unknown,Admitted,0,693
+1328,Male,20~64,Unknown,Discharged,0,173
+1329,Female,65+,Unknown,Admitted,16,952.13
+1330,Male,65+,Collapse,WIC,0,0
+1331,Male,20~64,Unknown,Admitted,0,693
+1332,Male,20~64,Unknown,Discharged,16,640
+1333,Male,0~4,Falls,WIC,0,0
+1334,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1335,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+1336,Male,0~4,Dislocation/fracture/joint injury/amputation,OOH,0,173
+1337,Female,65+,Cardiac conditions,Spoke to a primary care service,0,54.13
+1338,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1339,Female,20~64,Unknown,Admitted,16,1160
+1340,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1341,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+1342,Male,20~64,Unknown,Admitted,0,693
+1343,Female,20~64,Unknown,Admitted,0,693
+1344,Male,20~64,Falls,Admitted,16,1160
+1345,Female,20~64,Central Nervous System conditions,Admitted,16,1160
+1346,Female,20~64,Falls,Call Closed,0,9.13
+1347,Male,20~64,Unknown,Admitted,0,693
+1348,Male,0~4,Unknown,Admitted,0,693
+1349,Male,20~64,Cardiac conditions,Admitted,16,1160
+1350,Male,20~64,Unknown,Admitted,0,693
+1351,Female,5~19,Unknown,Discharged,0,173
+1352,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1353,Female,20~64,Respiratory conditions,Admitted,16,1160
+1354,Female,20~64,Unknown,Admitted,0,693
+1355,Female,65+,Falls,WIC,0,0
+1356,Male,20~64,Unknown,Discharged,0,173
+1357,Female,5~19,Unknown,Admitted,16,1160
+1358,Male,0~4,Unknown,Admitted,0,693
+1359,Male,20~64,Collapse,Admitted,0,702.13
+1360,Female,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1361,Female,20~64,Respiratory conditions,Admitted,0,693
+1362,Male,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1363,Female,0~4,Unknown,Admitted,16,1160
+1364,Female,20~64,Unknown,Admitted,0,693
+1365,Female,65+,Unknown,Discharged,0,173
+1366,Male,20~64,Unknown,Admitted,16,1160
+1367,Male,65+,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+1368,Male,65+,Unknown,Admitted,0,693
+1369,Female,65+,Unknown,Discharged,0,173
+1370,Male,20~64,Unknown,Admitted,0,693
+1371,Male,0~4,Central Nervous System conditions,Admitted,0,693
+1372,Female,20~64,Unknown,Admitted,0,693
+1373,Female,0~4,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1374,Female,65+,Unknown,Discharged,0,173
+1375,Female,20~64,Cardiac conditions,Admitted,0,693
+1376,Male,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1377,Female,65+,Unknown,Admitted,0,693
+1378,Male,20~64,Unknown,Call Closed,0,9.13
+1379,Female,65+,Unknown,Call Closed,0,9.13
+1380,Female,20~64,Unknown,Admitted,16,952.13
+1381,Female,20~64,Central Nervous System conditions,Admitted,0,693
+1382,Female,20~64,Unknown,Discharged,0,173
+1383,Male,0~4,Unknown,OOH,0,54.13
+1384,Male,5~19,Unknown,Admitted,0,693
+1385,Female,20~64,Falls,WIC,0,54.13
+1386,Female,20~64,Cardiac conditions,Admitted,0,693
+1387,Female,5~19,Unknown,Call Closed,0,9.13
+1388,Male,20~64,Central Nervous System conditions,WIC,0,0
+1389,Male,20~64,Falls,Seen by A&E doctor,76,681
+1390,Female,65+,Unknown,Admitted,16,1160
+1391,Female,65+,Unknown,Discharged,16,640
+1392,Male,0~4,Unknown,Admitted,16,1160
+1393,Male,5~19,Central Nervous System conditions,Admitted,0,693
+1394,Female,20~64,Cardiac conditions,Call Closed,0,9.13
+1395,Male,20~64,Cardiac conditions,Admitted,16,1160
+1396,Female,20~64,Central Nervous System conditions,Admitted,16,952.13
+1397,Female,20~64,Unknown,Discharged,16,640
+1398,Female,20~64,Dislocation/fracture/joint injury/amputation,Emergency dentist,0,54.13
+1399,Female,65+,Unknown,Emergency dentist,0,54.13
+1400,Male,65+,Cardiac conditions,Admitted,0,693
+1401,Female,5~19,Unknown,Discharged,0,173
+1402,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1403,Female,65+,Respiratory conditions,OOH,0,54.13
+1404,Male,5~19,Gastrointestinal conditions,WIC,0,0
+1405,Male,20~64,Collapse,WIC,0,0
+1406,Male,65+,Falls,OOH,0,182.13
+1407,Male,5~19,Unknown,Admitted,0,693
+1408,Male,5~19,Unknown,Admitted,0,693
+1409,Female,20~64,Unknown,Admitted,0,693
+1410,Male,65+,Collapse,WIC,0,0
+1411,Male,65+,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1412,Female,65+,Unknown,Admitted,0,702.13
+1413,Female,20~64,Collapse,Discharged,16,640
+1414,Male,65+,Gastrointestinal conditions,Admitted,0,693
+1415,Male,20~64,Respiratory conditions,Call Closed,0,9.13
+1416,Female,65+,Respiratory conditions,Admitted,0,693
+1417,Male,20~64,Unknown,Admitted,16,1160
+1418,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+1419,Male,20~64,Falls,WIC,0,0
+1420,Female,20~64,Unknown,Admitted,16,1160
+1421,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,640
+1422,Male,20~64,Unknown,Admitted,0,693
+1423,Female,20~64,Unknown,Admitted,0,693
+1424,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1425,Female,20~64,Unknown,Admitted,0,693
+1426,Male,65+,Respiratory conditions,WIC,0,0
+1427,Male,20~64,Collapse,WIC,0,0
+1428,Female,20~64,Cardiac conditions,Admitted,0,693
+1429,Female,20~64,Unknown,Admitted,0,693
+1430,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1431,Female,65+,Falls,Spoke to a primary care service,0,54.13
+1432,Male,65+,Unknown,Admitted,0,693
+1433,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+1434,Female,20~64,Unknown,Admitted,16,1160
+1435,Female,20~64,Unknown,Admitted,0,693
+1436,Male,20~64,Unknown,Admitted,0,693
+1437,Female,20~64,Unknown,Admitted,0,693
+1438,Male,20~64,Gastrointestinal conditions,Discharged,16,640
+1439,Male,20~64,Central Nervous System conditions,Discharged,16,640
+1440,Female,5~19,Respiratory conditions,Admitted,0,693
+1441,Female,0~4,Cardiac conditions,WIC,0,0
+1442,Male,20~64,Unknown,Admitted,0,693
+1443,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1444,Male,65+,Unknown,Discharged,16,640
+1445,Female,20~64,Respiratory conditions,Admitted,16,952.13
+1446,Female,20~64,Unknown,Seen by A&E doctor,60,214
+1447,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1448,Male,20~64,Central Nervous System conditions,Admitted,16,1160
+1449,Male,65+,Respiratory conditions,Admitted,0,693
+1450,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1451,Male,20~64,Unknown,Admitted,16,1160
+1452,Female,20~64,Central Nervous System conditions,Admitted,0,693
+1453,Female,5~19,Unknown,Not picked up in an ambulance,0,54
+1454,Male,20~64,Unknown,Admitted,0,693
+1455,Female,65+,Unknown,Admitted,0,693
+1456,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1457,Male,5~19,Cardiac conditions,Admitted,16,952.13
+1458,Female,65+,Respiratory conditions,Admitted,0,702.13
+1459,Female,20~64,Unknown,Discharged,0,173
+1460,Female,65+,Central Nervous System conditions,Emergency dentist,0,54.13
+1461,Female,65+,Unknown,Admitted,0,693
+1462,Female,20~64,Falls,Seen by A&E doctor,76,681
+1463,Male,5~19,Collapse,WIC,0,0
+1464,Female,20~64,Central Nervous System conditions,Admitted,16,952.13
+1465,Female,65+,Unknown,Admitted,0,693
+1466,Female,0~4,Central Nervous System conditions,Admitted,16,1160
+1467,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+1468,Male,5~19,Dislocation/fracture/joint injury/amputation,Admitted,0,702.13
+1469,Male,20~64,Unknown,Seen by A&E doctor,60,214
+1470,Male,20~64,Unknown,Admitted,0,693
+1471,Female,65+,Central Nervous System conditions,Admitted,16,1160
+1472,Male,20~64,Respiratory conditions,Discharged,16,640
+1473,Male,65+,Unknown,Discharged,16,640
+1474,Female,65+,Unknown,MIU,0,0
+1475,Female,20~64,Unknown,MIU,0,0
+1476,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1477,Female,20~64,Unknown,MIU,0,173
+1478,Female,20~64,Unknown,Admitted,16,1160
+1479,Male,65+,Unknown,Admitted,0,693
+1480,Male,0~4,Unknown,Discharged,16,640
+1481,Male,5~19,Unknown,Admitted,16,1160
+1482,Male,20~64,Unknown,Admitted,0,693
+1483,Female,20~64,Unknown,Discharged,0,173
+1484,Male,20~64,Unknown,Admitted,16,1160
+1485,Male,5~19,Central Nervous System conditions,Admitted,0,693
+1486,Female,5~19,Unknown,Admitted,0,693
+1487,Female,20~64,Unknown,Admitted,16,1160
+1488,Male,5~19,Collapse,WIC,0,0
+1489,Male,65+,Unknown,MIU,0,54.13
+1490,Male,5~19,Unknown,Admitted,16,1160
+1491,Male,20~64,Unknown,Admitted,16,1160
+1492,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+1493,Female,20~64,Unknown,Admitted,0,693
+1494,Male,65+,Unknown,Out-patient clinic,0,173
+1495,Male,5~19,Unknown,Admitted,16,1160
+1496,Male,0~4,Central Nervous System conditions,Not picked up in an ambulance,0,54
+1497,Female,20~64,Respiratory conditions,WIC,0,0
+1498,Female,20~64,Unknown,Admitted,0,693
+1499,Male,20~64,Collapse,WIC,0,0
+1500,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+1501,Female,65+,Central Nervous System conditions,WIC,0,0
+1502,Male,65+,Gastrointestinal conditions,Admitted,16,1160
+1503,Female,0~4,Unknown,Call Closed,0,9.13
+1504,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1505,Female,20~64,Unknown,Admitted,0,693
+1506,Female,20~64,Unknown,Admitted,16,1160
+1507,Male,20~64,Unknown,Seen by A&E doctor,60,223.13
+1508,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1509,Female,20~64,Central Nervous System conditions,WIC,0,0
+1510,Female,65+,Gastrointestinal conditions,WIC,0,0
+1511,Male,20~64,Unknown,Admitted,0,693
+1512,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,16,640
+1513,Male,65+,Unknown,Admitted,0,693
+1514,Female,20~64,Unknown,Admitted,0,693
+1515,Male,20~64,Unknown,Discharged,0,173
+1516,Male,65+,Unknown,Admitted,16,1160
+1517,Male,5~19,Unknown,Admitted,16,1160
+1518,Female,20~64,Unknown,Admitted,0,693
+1519,Male,0~4,Central Nervous System conditions,Admitted,0,693
+1520,Male,0~4,Unknown,Admitted,0,702.13
+1521,Male,20~64,Unknown,Admitted,0,693
+1522,Female,65+,Unknown,Admitted,0,702.13
+1523,Female,20~64,Respiratory conditions,MIU,0,54.13
+1524,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+1525,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+1526,Female,20~64,Respiratory conditions,Admitted,0,702.13
+1527,Male,65+,Unknown,Admitted,16,1160
+1528,Male,20~64,Unknown,Call Closed,0,9.13
+1529,Male,20~64,Unknown,Discharged,16,640
+1530,Male,0~4,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+1531,Female,65+,Central Nervous System conditions,Emergency dentist,0,54.13
+1532,Female,20~64,Falls,WIC,0,0
+1533,Male,0~4,Unknown,Admitted,16,1160
+1534,Male,5~19,Unknown,Not picked up in an ambulance,0,54
+1535,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1536,Male,20~64,Unknown,MIU,0,0
+1537,Female,20~64,Unknown,Admitted,0,693
+1538,Male,65+,Unknown,Seen by A&E doctor,76,681
+1539,Male,65+,Cardiac conditions,Emergency dentist,0,54.13
+1540,Male,5~19,Cardiac conditions,OOH,0,54.13
+1541,Male,65+,Unknown,Discharged,0,173
+1542,Female,65+,Falls,WIC,0,0
+1543,Female,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+1544,Male,65+,Unknown,Admitted,16,1160
+1545,Female,0~4,Falls,Out-patient clinic,0,182.13
+1546,Female,65+,Central Nervous System conditions,Admitted,0,693
+1547,Male,20~64,Unknown,MIU,0,54.13
+1548,Female,20~64,Unknown,Discharged,16,432.13
+1549,Male,20~64,Unknown,Admitted,0,693
+1550,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1551,Female,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1552,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+1553,Male,65+,Unknown,Discharged,16,640
+1554,Male,65+,Unknown,Admitted,16,1160
+1555,Female,65+,Unknown,Call Closed,0,9.13
+1556,Female,5~19,Collapse,WIC,0,0
+1557,Male,65+,Unknown,Admitted,16,1160
+1558,Female,20~64,Respiratory conditions,Admitted,16,1160
+1559,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1560,Male,65+,Unknown,Discharged,16,432.13
+1561,Female,20~64,Unknown,Admitted,0,702.13
+1562,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1563,Female,20~64,Unknown,Admitted,16,1160
+1564,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+1565,Male,20~64,Unknown,Admitted,16,1160
+1566,Female,20~64,Cardiac conditions,Admitted,16,1160
+1567,Male,20~64,Unknown,Admitted,16,1160
+1568,Male,5~19,Unknown,Admitted,0,693
+1569,Male,20~64,Unknown,Out-patient clinic,16,640
+1570,Male,65+,Cardiac conditions,Call Closed,0,9.13
+1571,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+1572,Male,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+1573,Female,65+,Gastrointestinal conditions,Admitted,16,1160
+1574,Female,65+,Respiratory conditions,Spoke to a primary care service,0,54.13
+1575,Male,65+,Unknown,Admitted,0,702.13
+1576,Male,65+,Unknown,Admitted,16,952.13
+1577,Female,20~64,Unknown,Emergency dentist,0,54.13
+1578,Male,5~19,Unknown,Not picked up in an ambulance,0,54
+1579,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1580,Female,20~64,Unknown,Admitted,16,1160
+1581,Male,0~4,Unknown,Discharged,16,640
+1582,Female,65+,Falls,WIC,0,0
+1583,Female,20~64,Respiratory conditions,Admitted,16,1160
+1584,Male,20~64,Falls,Spoke to a primary care service,0,54.13
+1585,Female,65+,Unknown,Seen by A&E doctor,76,473.13
+1586,Male,20~64,Central Nervous System conditions,WIC,0,0
+1587,Female,20~64,Unknown,Out-patient clinic,16,640
+1588,Male,0~4,Respiratory conditions,Admitted,16,952.13
+1589,Female,5~19,Unknown,Admitted,0,693
+1590,Female,65+,Respiratory conditions,Emergency dentist,0,54.13
+1591,Female,20~64,Cardiac conditions,Admitted,0,693
+1592,Male,0~4,Unknown,Admitted,0,693
+1593,Male,20~64,Unknown,Admitted,0,693
+1594,Female,20~64,Unknown,Admitted,16,1160
+1595,Male,20~64,Gastrointestinal conditions,Spoke to a primary care service,0,54.13
+1596,Female,20~64,Unknown,Admitted,0,693
+1597,Female,65+,Unknown,Admitted,16,1160
+1598,Male,65+,Unknown,MIU,0,0
+1599,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1600,Male,20~64,Respiratory conditions,Admitted,0,693
+1601,Female,20~64,Unknown,Admitted,0,693
+1602,Male,20~64,Falls,Not picked up in an ambulance,0,54
+1603,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1604,Male,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1605,Female,65+,Cardiac conditions,Admitted,0,693
+1606,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1607,Male,20~64,Unknown,MIU,0,0
+1608,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+1609,Male,20~64,Unknown,Admitted,0,693
+1610,Male,65+,Unknown,Admitted,0,693
+1611,Female,20~64,Unknown,Admitted,0,702.13
+1612,Male,5~19,Unknown,Admitted,0,693
+1613,Female,20~64,Central Nervous System conditions,WIC,0,54.13
+1614,Female,20~64,Unknown,Admitted,0,693
+1615,Male,20~64,Unknown,MIU,0,0
+1616,Female,0~4,Unknown,Admitted,0,693
+1617,Female,20~64,Unknown,Admitted,16,1160
+1618,Female,5~19,Collapse,WIC,0,0
+1619,Male,65+,Falls,Admitted,16,1160
+1620,Female,65+,Gastrointestinal conditions,Admitted,16,952.13
+1621,Female,5~19,Unknown,Discharged,0,173
+1622,Male,0~4,Central Nervous System conditions,Admitted,0,693
+1623,Male,65+,Unknown,Not picked up in an ambulance,0,54
+1624,Male,20~64,Unknown,Admitted,16,1160
+1625,Female,20~64,Unknown,Admitted,0,693
+1626,Male,20~64,Falls,Not picked up in an ambulance,0,54
+1627,Female,20~64,Collapse,Seen by A&E doctor,60,223.13
+1628,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1629,Male,65+,Cardiac conditions,WIC,0,0
+1630,Female,20~64,Cardiac conditions,Not picked up in an ambulance,0,54
+1631,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1632,Male,20~64,Unknown,Admitted,16,952.13
+1633,Male,65+,Respiratory conditions,Admitted,0,693
+1634,Female,20~64,Unknown,Admitted,16,1160
+1635,Male,65+,Unknown,Admitted,0,693
+1636,Male,20~64,Unknown,Admitted,0,693
+1637,Female,65+,Unknown,Admitted,0,693
+1638,Male,20~64,Gastrointestinal conditions,WIC,0,0
+1639,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1640,Female,65+,Gastrointestinal conditions,Admitted,16,952.13
+1641,Male,65+,Unknown,Admitted,0,693
+1642,Female,20~64,Unknown,Discharged,0,173
+1643,Male,20~64,Respiratory conditions,Admitted,16,1160
+1644,Female,20~64,Falls,Admitted,16,1160
+1645,Female,20~64,Respiratory conditions,Spoke to a primary care service,0,54.13
+1646,Male,65+,Respiratory conditions,Admitted,0,693
+1647,Male,20~64,Falls,WIC,0,0
+1648,Male,65+,Central Nervous System conditions,Discharged,16,640
+1649,Female,0~4,Unknown,Discharged,0,173
+1650,Male,20~64,Falls,Not picked up in an ambulance,0,54
+1651,Female,0~4,Unknown,Admitted,0,693
+1652,Male,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1653,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,182.13
+1654,Female,65+,Unknown,Seen by A&E doctor,60,214
+1655,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1656,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1657,Male,65+,Gastrointestinal conditions,Admitted,0,693
+1658,Male,65+,Gastrointestinal conditions,Admitted,0,693
+1659,Male,20~64,Unknown,Admitted,0,693
+1660,Female,5~19,Respiratory conditions,Admitted,16,1160
+1661,Male,20~64,Respiratory conditions,Admitted,16,1160
+1662,Male,20~64,Respiratory conditions,Admitted,16,1160
+1663,Female,20~64,Unknown,Admitted,0,693
+1664,Female,5~19,Unknown,Admitted,0,702.13
+1665,Male,5~19,Unknown,Admitted,0,693
+1666,Male,0~4,Unknown,Spoke to a primary care service,0,54.13
+1667,Male,20~64,Unknown,OOH,0,54.13
+1668,Female,65+,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1669,Female,0~4,Falls,WIC,0,0
+1670,Male,5~19,Unknown,Admitted,0,693
+1671,Female,65+,Unknown,Admitted,0,702.13
+1672,Male,20~64,Respiratory conditions,Admitted,0,702.13
+1673,Male,5~19,Collapse,Admitted,16,1160
+1674,Female,20~64,Falls,Admitted,16,1160
+1675,Male,20~64,Unknown,Admitted,16,952.13
+1676,Female,65+,Unknown,Admitted,0,693
+1677,Male,65+,Dislocation/fracture/joint injury/amputation,Discharged,0,182.13
+1678,Female,20~64,Unknown,Admitted,0,693
+1679,Male,20~64,Cardiac conditions,Admitted,16,1160
+1680,Female,65+,Unknown,Admitted,16,952.13
+1681,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1682,Male,5~19,Respiratory conditions,Admitted,16,1160
+1683,Female,5~19,Unknown,Discharged,0,173
+1684,Female,65+,Dislocation/fracture/joint injury/amputation,WIC,0,0
+1685,Female,20~64,Unknown,Discharged,0,173
+1686,Female,5~19,Unknown,Admitted,0,693
+1687,Male,20~64,Unknown,Admitted,0,693
+1688,Female,20~64,Respiratory conditions,Admitted,16,1160
+1689,Male,5~19,Respiratory conditions,Admitted,0,693
+1690,Female,65+,Gastrointestinal conditions,Admitted,16,1160
+1691,Male,20~64,Respiratory conditions,Admitted,16,1160
+1692,Male,20~64,Gastrointestinal conditions,Admitted,16,952.13
+1693,Male,65+,Unknown,Discharged,0,182.13
+1694,Male,5~19,Gastrointestinal conditions,Admitted,0,693
+1695,Female,20~64,Unknown,Admitted,0,693
+1696,Male,20~64,Falls,WIC,16,640
+1697,Female,65+,Unknown,Emergency dentist,0,54.13
+1698,Female,5~19,Unknown,Admitted,0,693
+1699,Male,0~4,Unknown,Discharged,0,173
+1700,Female,65+,Unknown,Admitted,16,1160
+1701,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+1702,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1703,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+1704,Male,5~19,Unknown,Out-patient clinic,16,640
+1705,Male,20~64,Unknown,Discharged,0,173
+1706,Female,65+,Unknown,Admitted,0,693
+1707,Male,65+,Unknown,Admitted,16,952.13
+1708,Male,65+,Unknown,Admitted,16,1160
+1709,Female,20~64,Central Nervous System conditions,Admitted,0,693
+1710,Female,20~64,Collapse,WIC,0,0
+1711,Female,65+,Unknown,Spoke to a primary care service,0,54.13
+1712,Male,20~64,Unknown,Admitted,0,693
+1713,Female,5~19,Unknown,Admitted,0,693
+1714,Female,20~64,Unknown,WIC,0,0
+1715,Male,20~64,Unknown,Seen by A&E doctor,60,214
+1716,Male,20~64,Unknown,MIU,0,0
+1717,Female,20~64,Unknown,Admitted,0,693
+1718,Male,20~64,Unknown,Admitted,16,1160
+1719,Female,20~64,Unknown,Admitted,0,693
+1720,Male,20~64,Unknown,Discharged,0,182.13
+1721,Female,20~64,Unknown,MIU,0,54.13
+1722,Male,5~19,Unknown,Emergency dentist,0,54.13
+1723,Male,0~4,Unknown,Discharged,16,432.13
+1724,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+1725,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1726,Male,20~64,Unknown,Admitted,0,693
+1727,Male,20~64,Unknown,Admitted,0,693
+1728,Male,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+1729,Male,65+,Respiratory conditions,Admitted,0,693
+1730,Male,20~64,Dislocation/fracture/joint injury/amputation,Out-patient clinic,0,173
+1731,Female,20~64,Central Nervous System conditions,Admitted,0,693
+1732,Female,20~64,Cardiac conditions,Admitted,16,1160
+1733,Male,20~64,Unknown,Admitted,0,693
+1734,Male,65+,Cardiac conditions,WIC,0,0
+1735,Female,5~19,Unknown,Admitted,16,1160
+1736,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1737,Female,5~19,Unknown,Admitted,16,1160
+1738,Female,20~64,Unknown,Admitted,16,1160
+1739,Female,20~64,Unknown,Admitted,0,693
+1740,Female,20~64,Dislocation/fracture/joint injury/amputation,Discharged,16,432.13
+1741,Female,5~19,Collapse,WIC,0,0
+1742,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1743,Female,20~64,Unknown,Admitted,16,1160
+1744,Male,20~64,Falls,WIC,0,0
+1745,Female,20~64,Central Nervous System conditions,Admitted,16,1160
+1746,Female,20~64,Unknown,Call Closed,0,9.13
+1747,Male,20~64,Central Nervous System conditions,Admitted,16,952.13
+1748,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+1749,Male,20~64,Collapse,MIU,0,54.13
+1750,Female,65+,Unknown,Admitted,0,693
+1751,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+1752,Male,20~64,Unknown,Emergency dentist,0,54.13
+1753,Female,20~64,Collapse,WIC,0,0
+1754,Male,20~64,Unknown,Admitted,0,693
+1755,Male,20~64,Central Nervous System conditions,WIC,0,0
+1756,Male,5~19,Respiratory conditions,Admitted,0,693
+1757,Female,65+,Unknown,Admitted,16,1160
+1758,Female,5~19,Unknown,Discharged,16,432.13
+1759,Male,20~64,Unknown,Admitted,16,1160
+1760,Female,20~64,Respiratory conditions,Admitted,0,693
+1761,Female,20~64,Unknown,Admitted,0,693
+1762,Male,5~19,Unknown,Admitted,16,952.13
+1763,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1764,Male,20~64,Unknown,Admitted,0,693
+1765,Female,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,182.13
+1766,Male,20~64,Respiratory conditions,WIC,0,0
+1767,Male,20~64,Unknown,Admitted,16,1160
+1768,Female,65+,Cardiac conditions,Admitted,0,693
+1769,Male,65+,Unknown,Admitted,16,1160
+1770,Male,20~64,Falls,Admitted,16,1160
+1771,Female,65+,Falls,Emergency dentist,0,54.13
+1772,Female,20~64,Unknown,Admitted,0,693
+1773,Male,5~19,Unknown,Admitted,0,693
+1774,Male,0~4,Collapse,Discharged,16,640
+1775,Male,20~64,Unknown,Admitted,0,693
+1776,Male,20~64,Unknown,Admitted,16,1160
+1777,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1778,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+1779,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+1780,Male,65+,Respiratory conditions,Admitted,16,1160
+1781,Male,20~64,Gastrointestinal conditions,Discharged,16,640
+1782,Female,20~64,Respiratory conditions,Admitted,16,1160
+1783,Female,20~64,Collapse,WIC,0,0
+1784,Female,0~4,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+1785,Male,20~64,Respiratory conditions,WIC,0,0
+1786,Male,20~64,Unknown,Seen by A&E doctor,60,214
+1787,Female,20~64,Falls,WIC,0,0
+1788,Male,65+,Unknown,Admitted,0,702.13
+1789,Male,65+,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+1790,Male,0~4,Unknown,Call Closed,0,9.13
+1791,Female,20~64,Unknown,Admitted,0,693
+1792,Female,20~64,Unknown,Discharged,0,173
+1793,Female,65+,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+1794,Female,20~64,Unknown,Admitted,16,952.13
+1795,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1796,Male,20~64,Collapse,WIC,0,0
+1797,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+1798,Male,5~19,Unknown,Spoke to a primary care service,0,54.13
+1799,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+1800,Female,20~64,Unknown,Admitted,0,693
+1801,Male,5~19,Respiratory conditions,Admitted,0,693
+1802,Female,20~64,Respiratory conditions,Admitted,0,693
+1803,Female,5~19,Dislocation/fracture/joint injury/amputation,WIC,0,0
+1804,Female,20~64,Collapse,Emergency dentist,0,54.13
+1805,Female,20~64,Cardiac conditions,Admitted,16,1160
+1806,Female,65+,Unknown,Admitted,0,693
+1807,Male,0~4,Unknown,Admitted,0,693
+1808,Female,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+1809,Male,20~64,Cardiac conditions,Admitted,0,693
+1810,Female,0~4,Collapse,Discharged,0,182.13
+1811,Male,65+,Unknown,MIU,16,640
+1812,Male,5~19,Unknown,Admitted,0,693
+1813,Male,5~19,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1814,Male,65+,Unknown,Admitted,0,693
+1815,Male,20~64,Central Nervous System conditions,Admitted,16,952.13
+1816,Male,20~64,Unknown,Call Closed,0,9.13
+1817,Male,0~4,Unknown,Admitted,0,693
+1818,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1819,Female,65+,Unknown,WIC,0,0
+1820,Male,65+,Central Nervous System conditions,Admitted,0,693
+1821,Female,20~64,Unknown,Admitted,16,1160
+1822,Male,5~19,Falls,WIC,0,0
+1823,Female,20~64,Cardiac conditions,Admitted,0,693
+1824,Male,65+,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1825,Female,20~64,Unknown,Admitted,0,693
+1826,Female,20~64,Unknown,Discharged,0,173
+1827,Female,65+,Unknown,Admitted,16,1160
+1828,Male,5~19,Respiratory conditions,Call Closed,0,9.13
+1829,Female,20~64,Unknown,Admitted,16,1160
+1830,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1831,Female,20~64,Unknown,Admitted,0,693
+1832,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+1833,Male,20~64,Unknown,Discharged,0,173
+1834,Male,20~64,Cardiac conditions,Admitted,0,693
+1835,Female,20~64,Unknown,Admitted,0,702.13
+1836,Male,65+,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1837,Male,20~64,Unknown,Admitted,0,693
+1838,Female,0~4,Respiratory conditions,Admitted,16,1160
+1839,Male,20~64,Unknown,Admitted,0,693
+1840,Male,20~64,Unknown,Admitted,16,1160
+1841,Male,20~64,Respiratory conditions,Admitted,0,693
+1842,Female,20~64,Collapse,OOH,16,640
+1843,Female,5~19,Collapse,WIC,0,0
+1844,Male,20~64,Collapse,WIC,0,0
+1845,Male,20~64,Unknown,Admitted,0,693
+1846,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+1847,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+1848,Male,5~19,Unknown,Admitted,0,693
+1849,Male,20~64,Falls,WIC,0,0
+1850,Male,20~64,Unknown,Admitted,16,1160
+1851,Male,20~64,Unknown,WIC,0,0
+1852,Male,20~64,Respiratory conditions,Admitted,0,693
+1853,Male,5~19,Unknown,Admitted,16,1160
+1854,Male,20~64,Unknown,Admitted,0,702.13
+1855,Female,65+,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1856,Female,0~4,Cardiac conditions,WIC,0,0
+1857,Male,20~64,Cardiac conditions,Admitted,16,1160
+1858,Female,65+,Cardiac conditions,Admitted,16,1160
+1859,Male,20~64,Unknown,Admitted,0,693
+1860,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+1861,Female,65+,Unknown,Not picked up in an ambulance,0,54
+1862,Male,65+,Unknown,Discharged,16,432.13
+1863,Female,65+,Collapse,MIU,16,640
+1864,Male,20~64,Cardiac conditions,Admitted,16,1160
+1865,Male,20~64,Cardiac conditions,Admitted,0,693
+1866,Male,20~64,Central Nervous System conditions,WIC,0,0
+1867,Male,20~64,Falls,Admitted,16,952.13
+1868,Male,65+,Respiratory conditions,WIC,0,0
+1869,Male,65+,Respiratory conditions,Not picked up in an ambulance,0,54
+1870,Male,5~19,Central Nervous System conditions,Admitted,0,693
+1871,Male,20~64,Unknown,Discharged,0,173
+1872,Male,20~64,Unknown,Admitted,0,693
+1873,Male,20~64,Unknown,Admitted,0,693
+1874,Male,5~19,Cardiac conditions,Admitted,0,693
+1875,Male,65+,Unknown,Discharged,16,640
+1876,Male,20~64,Collapse,WIC,0,0
+1877,Female,5~19,Unknown,Not picked up in an ambulance,0,54
+1878,Male,65+,Unknown,Emergency dentist,0,54.13
+1879,Male,0~4,Gastrointestinal conditions,Admitted,16,1160
+1880,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1881,Male,65+,Gastrointestinal conditions,Admitted,0,693
+1882,Male,5~19,Collapse,WIC,0,0
+1883,Female,65+,Respiratory conditions,Admitted,0,693
+1884,Female,20~64,Cardiac conditions,Admitted,0,693
+1885,Male,20~64,Unknown,Admitted,0,693
+1886,Male,20~64,Gastrointestinal conditions,Admitted,16,952.13
+1887,Male,20~64,Respiratory conditions,Spoke to a primary care service,0,54.13
+1888,Female,0~4,Unknown,Admitted,16,1160
+1889,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1890,Male,20~64,Unknown,Admitted,0,693
+1891,Male,5~19,Respiratory conditions,Admitted,0,693
+1892,Female,20~64,Unknown,Admitted,16,1160
+1893,Male,5~19,Unknown,WIC,0,0
+1894,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1895,Male,65+,Collapse,Discharged,16,640
+1896,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+1897,Female,20~64,Unknown,Admitted,0,693
+1898,Female,65+,Falls,WIC,0,0
+1899,Male,65+,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+1900,Male,20~64,Unknown,Admitted,16,952.13
+1901,Female,0~4,Unknown,Emergency dentist,0,54.13
+1902,Female,20~64,Unknown,Admitted,0,693
+1903,Female,5~19,Cardiac conditions,Not picked up in an ambulance,0,54
+1904,Female,0~4,Unknown,Discharged,0,173
+1905,Female,20~64,Unknown,Admitted,0,693
+1906,Male,20~64,Central Nervous System conditions,WIC,0,0
+1907,Female,65+,Unknown,Seen by A&E doctor,76,681
+1908,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+1909,Female,65+,Unknown,Admitted,0,693
+1910,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1911,Male,20~64,Central Nervous System conditions,OOH,0,54.13
+1912,Female,20~64,Cardiac conditions,Admitted,0,702.13
+1913,Female,5~19,Unknown,Admitted,16,1160
+1914,Female,65+,Gastrointestinal conditions,Admitted,0,693
+1915,Female,65+,Cardiac conditions,Admitted,16,1160
+1916,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1917,Female,20~64,Falls,OOH,16,640
+1918,Male,65+,Central Nervous System conditions,Admitted,0,693
+1919,Male,65+,Unknown,Admitted,16,1160
+1920,Female,0~4,Unknown,Not picked up in an ambulance,0,54
+1921,Male,20~64,Unknown,Admitted,0,693
+1922,Male,5~19,Unknown,Admitted,0,693
+1923,Female,20~64,Collapse,WIC,0,0
+1924,Male,5~19,Unknown,Admitted,16,1160
+1925,Female,5~19,Unknown,Seen by A&E doctor,60,223.13
+1926,Female,20~64,Unknown,Admitted,0,693
+1927,Male,20~64,Falls,WIC,0,0
+1928,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1929,Male,20~64,Dislocation/fracture/joint injury/amputation,Out-patient clinic,0,173
+1930,Female,65+,Unknown,WIC,0,0
+1931,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,952.13
+1932,Male,65+,Unknown,Admitted,0,702.13
+1933,Male,65+,Unknown,OOH,0,54.13
+1934,Male,20~64,Unknown,Admitted,16,952.13
+1935,Male,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+1936,Female,65+,Unknown,Admitted,0,693
+1937,Male,65+,Unknown,MIU,0,54.13
+1938,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+1939,Female,20~64,Unknown,Admitted,0,693
+1940,Male,5~19,Unknown,Admitted,16,1160
+1941,Male,20~64,Unknown,Admitted,16,1160
+1942,Male,20~64,Cardiac conditions,Call Closed,0,9.13
+1943,Female,20~64,Collapse,Out-patient clinic,16,640
+1944,Male,20~64,Unknown,Discharged,16,640
+1945,Male,0~4,Unknown,Admitted,0,693
+1946,Female,20~64,Unknown,WIC,0,54.13
+1947,Female,0~4,Respiratory conditions,OOH,0,54.13
+1948,Female,65+,Unknown,Seen by A&E doctor,76,681
+1949,Female,65+,Unknown,Admitted,16,952.13
+1950,Male,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1951,Female,20~64,Unknown,Discharged,0,173
+1952,Male,20~64,Unknown,Admitted,0,693
+1953,Male,65+,Unknown,Admitted,0,693
+1954,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1955,Male,65+,Respiratory conditions,WIC,0,54.13
+1956,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1957,Male,20~64,Unknown,Admitted,0,693
+1958,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1959,Male,20~64,Collapse,Not picked up in an ambulance,0,54
+1960,Male,20~64,Gastrointestinal conditions,Admitted,16,1160
+1961,Female,20~64,Unknown,Admitted,0,693
+1962,Male,20~64,Unknown,Discharged,0,182.13
+1963,Female,65+,Collapse,Not picked up in an ambulance,0,54
+1964,Male,20~64,Unknown,Admitted,0,693
+1965,Male,20~64,Collapse,Seen by A&E doctor,76,681
+1966,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+1967,Female,20~64,Unknown,Discharged,16,640
+1968,Female,20~64,Unknown,Admitted,0,693
+1969,Male,65+,Unknown,Admitted,0,693
+1970,Male,20~64,Cardiac conditions,Admitted,0,693
+1971,Female,5~19,Unknown,Admitted,16,1160
+1972,Male,0~4,Collapse,WIC,0,0
+1973,Female,65+,Unknown,Discharged,16,640
+1974,Male,20~64,Central Nervous System conditions,Admitted,0,693
+1975,Male,0~4,Unknown,Admitted,0,693
+1976,Male,20~64,Unknown,Admitted,0,693
+1977,Female,20~64,Unknown,Admitted,0,693
+1978,Female,20~64,Cardiac conditions,Spoke to a primary care service,0,54.13
+1979,Female,65+,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+1980,Male,20~64,Unknown,Admitted,0,693
+1981,Male,65+,Central Nervous System conditions,WIC,0,0
+1982,Male,0~4,Unknown,Admitted,0,693
+1983,Female,20~64,Unknown,Admitted,16,1160
+1984,Male,65+,Unknown,Admitted,0,702.13
+1985,Male,65+,Cardiac conditions,Call Closed,0,9.13
+1986,Male,20~64,Unknown,Admitted,0,693
+1987,Male,5~19,Respiratory conditions,Admitted,0,693
+1988,Female,20~64,Unknown,Admitted,0,693
+1989,Female,20~64,Unknown,Admitted,0,693
+1990,Female,0~4,Unknown,MIU,16,640
+1991,Male,0~4,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+1992,Male,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+1993,Female,65+,Unknown,Admitted,0,693
+1994,Female,65+,Dislocation/fracture/joint injury/amputation,Admitted,0,702.13
+1995,Female,0~4,Respiratory conditions,Not picked up in an ambulance,0,54
+1996,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,173
+1997,Female,20~64,Unknown,Admitted,0,693
+1998,Male,0~4,Unknown,Admitted,16,952.13
+1999,Male,65+,Central Nervous System conditions,Admitted,0,693
+2000,Male,20~64,Respiratory conditions,Admitted,0,693
+2001,Male,65+,Unknown,Emergency dentist,0,54.13
+2002,Female,65+,Unknown,Call Closed,0,9.13
+2003,Male,65+,Unknown,Emergency dentist,0,54.13
+2004,Female,5~19,Falls,WIC,0,0
+2005,Female,20~64,Respiratory conditions,Admitted,0,693
+2006,Female,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+2007,Male,20~64,Unknown,Admitted,16,1160
+2008,Female,5~19,Unknown,Admitted,0,693
+2009,Female,20~64,Central Nervous System conditions,WIC,0,0
+2010,Male,5~19,Unknown,Admitted,0,693
+2011,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+2012,Female,20~64,Unknown,Call Closed,0,9.13
+2013,Male,20~64,Unknown,WIC,0,0
+2014,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+2015,Female,65+,Unknown,Admitted,0,693
+2016,Male,65+,Cardiac conditions,Admitted,16,1160
+2017,Female,5~19,Unknown,Admitted,16,952.13
+2018,Male,20~64,Unknown,Admitted,16,952.13
+2019,Male,5~19,Respiratory conditions,Admitted,0,693
+2020,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,0,173
+2021,Female,20~64,Unknown,Admitted,0,693
+2022,Female,5~19,Unknown,Admitted,0,702.13
+2023,Female,65+,Unknown,Admitted,16,1160
+2024,Male,65+,Respiratory conditions,Admitted,0,693
+2025,Female,20~64,Unknown,Admitted,0,693
+2026,Female,20~64,Unknown,Admitted,0,702.13
+2027,Female,65+,Gastrointestinal conditions,Admitted,0,693
+2028,Male,5~19,Unknown,Seen by A&E doctor,76,681
+2029,Female,20~64,Unknown,Admitted,0,702.13
+2030,Female,20~64,Unknown,Admitted,0,693
+2031,Male,20~64,Unknown,Discharged,0,182.13
+2032,Male,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2033,Male,20~64,Unknown,Admitted,0,693
+2034,Male,0~4,Unknown,Admitted,16,952.13
+2035,Male,20~64,Unknown,Call Closed,0,9.13
+2036,Male,5~19,Unknown,Admitted,16,1160
+2037,Female,20~64,Unknown,Admitted,0,693
+2038,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,0,173
+2039,Male,20~64,Unknown,Admitted,0,693
+2040,Male,65+,Unknown,Not picked up in an ambulance,0,54
+2041,Male,5~19,Unknown,Admitted,0,693
+2042,Female,0~4,Cardiac conditions,Admitted,0,693
+2043,Female,65+,Central Nervous System conditions,OOH,0,54.13
+2044,Male,65+,Unknown,Emergency dentist,0,54.13
+2045,Male,0~4,Central Nervous System conditions,WIC,0,0
+2046,Female,20~64,Collapse,Not picked up in an ambulance,0,54
+2047,Male,65+,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+2048,Female,5~19,Unknown,Admitted,0,693
+2049,Female,20~64,Gastrointestinal conditions,Call Closed,0,9.13
+2050,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+2051,Female,20~64,Unknown,Admitted,0,693
+2052,Female,65+,Unknown,Admitted,0,693
+2053,Female,5~19,Unknown,Admitted,0,693
+2054,Male,65+,Unknown,Discharged,16,640
+2055,Female,65+,Falls,WIC,0,0
+2056,Female,20~64,Unknown,MIU,0,0
+2057,Male,0~4,Unknown,Admitted,16,952.13
+2058,Male,20~64,Unknown,Discharged,0,173
+2059,Female,20~64,Unknown,Discharged,16,640
+2060,Female,5~19,Unknown,Admitted,0,693
+2061,Male,20~64,Unknown,Admitted,0,693
+2062,Female,20~64,Central Nervous System conditions,Admitted,0,693
+2063,Male,20~64,Unknown,Admitted,0,693
+2064,Male,5~19,Unknown,Spoke to a primary care service,0,54.13
+2065,Male,20~64,Unknown,Admitted,16,1160
+2066,Female,65+,Collapse,Call Closed,0,9.13
+2067,Male,5~19,Unknown,WIC,0,0
+2068,Male,20~64,Unknown,Admitted,0,702.13
+2069,Male,20~64,Cardiac conditions,Admitted,0,693
+2070,Male,20~64,Unknown,Admitted,0,693
+2071,Female,20~64,Falls,WIC,0,0
+2072,Female,0~4,Central Nervous System conditions,Admitted,0,693
+2073,Male,20~64,Central Nervous System conditions,WIC,0,0
+2074,Female,5~19,Unknown,Admitted,0,693
+2075,Female,20~64,Unknown,Call Closed,0,9.13
+2076,Male,20~64,Cardiac conditions,Admitted,16,1160
+2077,Male,65+,Respiratory conditions,Admitted,0,693
+2078,Female,5~19,Collapse,Spoke to a primary care service,0,54.13
+2079,Female,20~64,Unknown,Admitted,0,693
+2080,Female,5~19,Cardiac conditions,Admitted,0,693
+2081,Female,20~64,Unknown,Admitted,16,1160
+2082,Male,5~19,Falls,OOH,0,54.13
+2083,Male,20~64,Central Nervous System conditions,Call Closed,0,9.13
+2084,Female,5~19,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+2085,Male,5~19,Unknown,Admitted,0,693
+2086,Female,20~64,Unknown,Seen by A&E doctor,76,681
+2087,Female,0~4,Unknown,MIU,0,0
+2088,Male,65+,Gastrointestinal conditions,Admitted,0,693
+2089,Female,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2090,Female,65+,Central Nervous System conditions,Admitted,0,693
+2091,Male,65+,Unknown,MIU,0,54.13
+2092,Female,5~19,Cardiac conditions,Admitted,0,693
+2093,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,640
+2094,Male,65+,Unknown,Not picked up in an ambulance,0,54
+2095,Female,20~64,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+2096,Female,20~64,Central Nervous System conditions,Admitted,16,1160
+2097,Female,5~19,Unknown,Admitted,0,693
+2098,Male,65+,Falls,Admitted,16,1160
+2099,Male,0~4,Unknown,Discharged,16,640
+2100,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+2101,Female,20~64,Respiratory conditions,Admitted,0,693
+2102,Male,20~64,Unknown,Admitted,0,693
+2103,Male,0~4,Unknown,Admitted,0,693
+2104,Male,20~64,Unknown,Admitted,16,1160
+2105,Female,65+,Gastrointestinal conditions,Admitted,0,693
+2106,Male,20~64,Collapse,WIC,0,0
+2107,Female,20~64,Unknown,MIU,0,54.13
+2108,Male,65+,Falls,Discharged,16,640
+2109,Male,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+2110,Male,20~64,Falls,WIC,0,0
+2111,Female,20~64,Unknown,Admitted,0,702.13
+2112,Female,65+,Respiratory conditions,Admitted,16,952.13
+2113,Male,65+,Gastrointestinal conditions,Admitted,0,693
+2114,Male,65+,Respiratory conditions,Admitted,0,693
+2115,Female,20~64,Cardiac conditions,WIC,0,0
+2116,Female,0~4,Gastrointestinal conditions,Admitted,16,1160
+2117,Male,20~64,Collapse,Seen by A&E doctor,76,681
+2118,Female,5~19,Unknown,Spoke to a primary care service,0,54.13
+2119,Female,65+,Unknown,Discharged,0,173
+2120,Female,5~19,Falls,WIC,0,0
+2121,Female,20~64,Unknown,Admitted,0,693
+2122,Male,65+,Unknown,MIU,0,0
+2123,Male,20~64,Unknown,Admitted,0,693
+2124,Female,5~19,Unknown,Not picked up in an ambulance,0,54
+2125,Female,20~64,Unknown,Admitted,0,693
+2126,Female,5~19,Collapse,WIC,0,0
+2127,Female,0~4,Collapse,WIC,0,0
+2128,Male,20~64,Unknown,Admitted,0,693
+2129,Male,0~4,Gastrointestinal conditions,Admitted,16,1160
+2130,Female,20~64,Unknown,Call Closed,0,9.13
+2131,Female,65+,Dislocation/fracture/joint injury/amputation,MIU,16,640
+2132,Male,0~4,Respiratory conditions,Spoke to a primary care service,0,54.13
+2133,Male,5~19,Unknown,Admitted,16,1160
+2134,Female,20~64,Unknown,Admitted,0,693
+2135,Male,20~64,Cardiac conditions,Admitted,0,702.13
+2136,Female,20~64,Collapse,WIC,0,0
+2137,Female,65+,Falls,WIC,0,0
+2138,Female,20~64,Unknown,Admitted,0,693
+2139,Male,20~64,Unknown,Call Closed,0,9.13
+2140,Female,5~19,Unknown,Admitted,0,693
+2141,Female,20~64,Unknown,Admitted,16,1160
+2142,Male,65+,Unknown,Emergency dentist,0,54.13
+2143,Female,5~19,Gastrointestinal conditions,Admitted,0,702.13
+2144,Female,20~64,Falls,WIC,0,0
+2145,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2146,Male,20~64,Respiratory conditions,Admitted,0,693
+2147,Male,5~19,Respiratory conditions,Admitted,0,693
+2148,Female,0~4,Collapse,WIC,0,0
+2149,Female,20~64,Central Nervous System conditions,Admitted,0,693
+2150,Male,65+,Unknown,Emergency dentist,0,54.13
+2151,Female,20~64,Unknown,Admitted,0,693
+2152,Male,20~64,Gastrointestinal conditions,Call Closed,0,9.13
+2153,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+2154,Male,65+,Unknown,Admitted,0,693
+2155,Female,65+,Unknown,OOH,0,54.13
+2156,Female,5~19,Unknown,Admitted,16,1160
+2157,Male,20~64,Unknown,MIU,0,0
+2158,Female,20~64,Unknown,MIU,0,0
+2159,Male,20~64,Unknown,Admitted,0,693
+2160,Female,20~64,Respiratory conditions,Admitted,0,693
+2161,Female,5~19,Respiratory conditions,Admitted,0,702.13
+2162,Female,65+,Unknown,Admitted,0,693
+2163,Female,20~64,Gastrointestinal conditions,Admitted,16,1160
+2164,Male,65+,Respiratory conditions,Admitted,0,702.13
+2165,Female,20~64,Unknown,Admitted,16,1160
+2166,Female,20~64,Unknown,Admitted,16,1160
+2167,Male,65+,Unknown,Admitted,0,693
+2168,Female,5~19,Unknown,Discharged,0,173
+2169,Female,20~64,Falls,WIC,0,54.13
+2170,Male,5~19,Unknown,Admitted,16,1160
+2171,Male,5~19,Unknown,Discharged,0,173
+2172,Male,65+,Central Nervous System conditions,Discharged,16,640
+2173,Female,20~64,Unknown,MIU,0,54.13
+2174,Female,20~64,Central Nervous System conditions,Admitted,0,693
+2175,Male,65+,Unknown,Admitted,0,693
+2176,Female,20~64,Respiratory conditions,Admitted,16,1160
+2177,Male,5~19,Respiratory conditions,Admitted,0,693
+2178,Female,65+,Central Nervous System conditions,OOH,0,54.13
+2179,Male,65+,Central Nervous System conditions,Admitted,0,693
+2180,Male,5~19,Respiratory conditions,Admitted,16,952.13
+2181,Female,0~4,Unknown,Discharged,0,173
+2182,Male,65+,Unknown,Admitted,16,952.13
+2183,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,702.13
+2184,Female,0~4,Unknown,Admitted,0,693
+2185,Female,5~19,Central Nervous System conditions,Admitted,0,693
+2186,Male,5~19,Unknown,Admitted,0,693
+2187,Female,5~19,Unknown,WIC,0,0
+2188,Male,20~64,Unknown,MIU,16,640
+2189,Male,65+,Cardiac conditions,Admitted,0,693
+2190,Female,65+,Cardiac conditions,WIC,0,0
+2191,Male,65+,Central Nervous System conditions,Admitted,0,693
+2192,Male,65+,Unknown,Discharged,0,173
+2193,Male,0~4,Respiratory conditions,Emergency dentist,0,54.13
+2194,Female,20~64,Gastrointestinal conditions,Admitted,0,693
+2195,Male,5~19,Unknown,Admitted,0,693
+2196,Female,5~19,Unknown,Admitted,0,693
+2197,Male,20~64,Unknown,Emergency dentist,0,54.13
+2198,Male,65+,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+2199,Male,20~64,Central Nervous System conditions,Admitted,0,693
+2200,Female,20~64,Respiratory conditions,Admitted,16,1160
+2201,Female,20~64,Unknown,Admitted,0,693
+2202,Female,5~19,Respiratory conditions,Admitted,0,693
+2203,Female,0~4,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2204,Male,0~4,Unknown,Admitted,16,952.13
+2205,Female,20~64,Respiratory conditions,Spoke to a primary care service,0,54.13
+2206,Female,65+,Unknown,Admitted,0,693
+2207,Male,20~64,Cardiac conditions,Admitted,0,693
+2208,Male,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+2209,Female,20~64,Unknown,Admitted,0,693
+2210,Male,0~4,Unknown,Admitted,0,693
+2211,Male,20~64,Unknown,Admitted,0,702.13
+2212,Female,20~64,Unknown,Discharged,16,640
+2213,Male,20~64,Collapse,Not picked up in an ambulance,0,54
+2214,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2215,Male,65+,Respiratory conditions,Admitted,0,693
+2216,Female,5~19,Unknown,Admitted,16,1160
+2217,Female,20~64,Unknown,Discharged,0,173
+2218,Female,0~4,Respiratory conditions,Admitted,0,693
+2219,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+2220,Female,5~19,Unknown,Discharged,16,640
+2221,Male,20~64,Cardiac conditions,Admitted,0,693
+2222,Female,5~19,Unknown,Admitted,0,693
+2223,Male,65+,Unknown,Admitted,0,693
+2224,Male,20~64,Respiratory conditions,WIC,0,0
+2225,Male,20~64,Unknown,Admitted,0,693
+2226,Female,65+,Unknown,Admitted,16,1160
+2227,Female,5~19,Central Nervous System conditions,Call Closed,0,9.13
+2228,Female,65+,Central Nervous System conditions,WIC,0,0
+2229,Male,0~4,Unknown,Admitted,0,693
+2230,Male,20~64,Unknown,Admitted,0,693
+2231,Male,20~64,Unknown,Admitted,16,1160
+2232,Male,5~19,Cardiac conditions,Admitted,0,702.13
+2233,Male,20~64,Unknown,Admitted,0,693
+2234,Male,20~64,Central Nervous System conditions,WIC,0,0
+2235,Female,0~4,Falls,WIC,0,182.13
+2236,Female,5~19,Unknown,Admitted,0,693
+2237,Male,20~64,Unknown,Admitted,16,952.13
+2238,Female,65+,Unknown,Call Closed,0,9.13
+2239,Male,20~64,Unknown,Emergency dentist,0,54.13
+2240,Female,65+,Unknown,Admitted,0,693
+2241,Male,20~64,Cardiac conditions,Admitted,0,702.13
+2242,Male,5~19,Respiratory conditions,Admitted,0,693
+2243,Female,5~19,Unknown,Admitted,0,693
+2244,Female,20~64,Falls,Not picked up in an ambulance,0,54
+2245,Female,0~4,Unknown,Admitted,0,693
+2246,Male,20~64,Unknown,Admitted,0,693
+2247,Female,20~64,Unknown,Admitted,0,693
+2248,Female,20~64,Unknown,Discharged,0,173
+2249,Female,20~64,Unknown,Admitted,16,1160
+2250,Male,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+2251,Male,20~64,Unknown,Call Closed,0,9.13
+2252,Female,20~64,Dislocation/fracture/joint injury/amputation,Emergency dentist,0,54.13
+2253,Female,20~64,Unknown,Admitted,16,1160
+2254,Male,20~64,Unknown,Admitted,0,693
+2255,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+2256,Male,5~19,Unknown,Admitted,16,1160
+2257,Male,20~64,Unknown,Seen by A&E doctor,60,214
+2258,Female,20~64,Unknown,MIU,0,0
+2259,Male,65+,Unknown,Admitted,0,693
+2260,Male,65+,Unknown,Admitted,16,1160
+2261,Male,20~64,Unknown,Admitted,0,693
+2262,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+2263,Male,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,702.13
+2264,Female,20~64,Unknown,Admitted,16,952.13
+2265,Male,20~64,Unknown,Admitted,0,693
+2266,Female,20~64,Unknown,Admitted,0,693
+2267,Male,20~64,Unknown,Admitted,0,693
+2268,Male,0~4,Unknown,Discharged,0,173
+2269,Female,20~64,Gastrointestinal conditions,Admitted,0,693
+2270,Male,5~19,Unknown,Not picked up in an ambulance,0,54
+2271,Male,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+2272,Male,20~64,Unknown,Emergency dentist,0,54.13
+2273,Male,20~64,Unknown,Admitted,16,1160
+2274,Female,65+,Unknown,Call Closed,0,9.13
+2275,Female,5~19,Unknown,WIC,0,0
+2276,Male,65+,Unknown,Admitted,16,1160
+2277,Male,5~19,Falls,WIC,0,0
+2278,Male,20~64,Unknown,Admitted,0,693
+2279,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2280,Male,20~64,Central Nervous System conditions,Admitted,0,693
+2281,Female,65+,Unknown,Admitted,16,1160
+2282,Female,20~64,Unknown,Admitted,16,952.13
+2283,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,16,640
+2284,Male,65+,Respiratory conditions,WIC,0,0
+2285,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+2286,Male,20~64,Unknown,Admitted,16,1160
+2287,Male,20~64,Falls,WIC,0,0
+2288,Female,20~64,Dislocation/fracture/joint injury/amputation,Emergency dentist,0,54.13
+2289,Female,0~4,Respiratory conditions,Admitted,0,693
+2290,Female,65+,Unknown,Admitted,16,1160
+2291,Female,0~4,Dislocation/fracture/joint injury/amputation,Discharged,0,182.13
+2292,Male,20~64,Unknown,Admitted,16,1160
+2293,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+2294,Female,65+,Unknown,Emergency dentist,0,54.13
+2295,Male,65+,Unknown,Admitted,0,693
+2296,Male,5~19,Cardiac conditions,Admitted,0,693
+2297,Male,20~64,Dislocation/fracture/joint injury/amputation,Spoke to a primary care service,0,54.13
+2298,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2299,Male,0~4,Unknown,MIU,0,0
+2300,Female,20~64,Unknown,Admitted,0,693
+2301,Male,20~64,Unknown,Admitted,16,952.13
+2302,Male,20~64,Unknown,Admitted,0,693
+2303,Male,65+,Unknown,OOH,0,54.13
+2304,Female,5~19,Cardiac conditions,Admitted,16,1160
+2305,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+2306,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,0,693
+2307,Male,65+,Cardiac conditions,Admitted,0,693
+2308,Female,65+,Unknown,Discharged,16,640
+2309,Male,65+,Collapse,Spoke to a primary care service,0,54.13
+2310,Male,65+,Unknown,Emergency dentist,0,54.13
+2311,Male,5~19,Cardiac conditions,Admitted,0,702.13
+2312,Male,5~19,Dislocation/fracture/joint injury/amputation,MIU,0,173
+2313,Female,65+,Unknown,Admitted,0,693
+2314,Female,5~19,Unknown,Admitted,16,1160
+2315,Female,20~64,Central Nervous System conditions,Admitted,0,693
+2316,Female,20~64,Respiratory conditions,Admitted,0,693
+2317,Male,65+,Unknown,Admitted,16,1160
+2318,Female,20~64,Unknown,Admitted,0,693
+2319,Female,20~64,Central Nervous System conditions,Admitted,16,1160
+2320,Female,20~64,Unknown,OOH,0,54.13
+2321,Male,65+,Unknown,Admitted,0,693
+2322,Female,65+,Cardiac conditions,WIC,0,0
+2323,Female,5~19,Unknown,Emergency dentist,0,54.13
+2324,Male,5~19,Unknown,Not picked up in an ambulance,0,54
+2325,Female,0~4,Falls,Discharged,16,640
+2326,Female,65+,Falls,WIC,0,0
+2327,Female,65+,Unknown,Admitted,16,952.13
+2328,Female,20~64,Unknown,Not picked up in an ambulance,0,54
+2329,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2330,Female,20~64,Respiratory conditions,Admitted,16,952.13
+2331,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,54.13
+2332,Female,5~19,Gastrointestinal conditions,Admitted,16,1160
+2333,Male,20~64,Unknown,Admitted,0,693
+2334,Male,65+,Respiratory conditions,Admitted,0,693
+2335,Female,65+,Unknown,Admitted,16,952.13
+2336,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+2337,Female,65+,Unknown,Discharged,16,640
+2338,Female,20~64,Unknown,Seen by A&E doctor,60,214
+2339,Male,0~4,Unknown,Admitted,0,693
+2340,Female,20~64,Unknown,Call Closed,0,9.13
+2341,Male,20~64,Unknown,Admitted,0,702.13
+2342,Male,20~64,Collapse,Spoke to a primary care service,0,54.13
+2343,Female,20~64,Collapse,MIU,0,182.13
+2344,Male,0~4,Falls,Emergency dentist,0,54.13
+2345,Female,20~64,Unknown,Admitted,0,693
+2346,Male,65+,Unknown,Admitted,0,693
+2347,Male,65+,Unknown,Emergency dentist,0,54.13
+2348,Male,0~4,Gastrointestinal conditions,Discharged,0,173
+2349,Male,5~19,Unknown,Call Closed,0,9.13
+2350,Female,65+,Central Nervous System conditions,Admitted,16,1160
+2351,Male,65+,Central Nervous System conditions,Admitted,16,952.13
+2352,Female,5~19,Unknown,Admitted,0,693
+2353,Female,65+,Cardiac conditions,WIC,0,0
+2354,Female,20~64,Central Nervous System conditions,Not picked up in an ambulance,0,54
+2355,Male,20~64,Falls,WIC,0,0
+2356,Female,20~64,Unknown,Admitted,16,1160
+2357,Female,20~64,Unknown,MIU,0,54.13
+2358,Male,20~64,Unknown,Admitted,0,693
+2359,Male,65+,Collapse,WIC,0,0
+2360,Female,65+,Dislocation/fracture/joint injury/amputation,Discharged,16,432.13
+2361,Female,20~64,Collapse,WIC,0,0
+2362,Female,20~64,Unknown,Admitted,0,693
+2363,Female,20~64,Unknown,WIC,0,54.13
+2364,Female,20~64,Falls,WIC,0,0
+2365,Female,5~19,Unknown,Admitted,16,1160
+2366,Female,65+,Respiratory conditions,Admitted,0,693
+2367,Male,5~19,Unknown,OOH,0,54.13
+2368,Male,20~64,Dislocation/fracture/joint injury/amputation,Discharged,16,640
+2369,Female,20~64,Unknown,Discharged,16,640
+2370,Male,20~64,Dislocation/fracture/joint injury/amputation,WIC,0,0
+2371,Female,20~64,Unknown,Spoke to a primary care service,0,54.13
+2372,Female,65+,Unknown,Admitted,0,693
+2373,Female,20~64,Unknown,Admitted,0,693
+2374,Male,20~64,Dislocation/fracture/joint injury/amputation,WIC,0,0
+2375,Female,20~64,Unknown,Admitted,0,693
+2376,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2377,Female,65+,Falls,WIC,0,0
+2378,Male,0~4,Unknown,MIU,0,0
+2379,Male,0~4,Unknown,Admitted,0,693
+2380,Male,65+,Cardiac conditions,Admitted,16,952.13
+2381,Male,20~64,Respiratory conditions,WIC,0,0
+2382,Male,20~64,Collapse,WIC,0,0
+2383,Female,65+,Unknown,Admitted,16,1160
+2384,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2385,Female,65+,Unknown,Admitted,0,693
+2386,Female,65+,Respiratory conditions,Admitted,16,952.13
+2387,Male,20~64,Unknown,Discharged,0,173
+2388,Female,65+,Unknown,Seen by A&E doctor,60,214
+2389,Male,20~64,Unknown,Emergency dentist,0,54.13
+2390,Male,20~64,Unknown,Seen by A&E doctor,60,223.13
+2391,Female,20~64,Unknown,Admitted,0,693
+2392,Male,20~64,Respiratory conditions,Admitted,16,1160
+2393,Female,20~64,Central Nervous System conditions,Admitted,0,693
+2394,Male,20~64,Unknown,Admitted,0,693
+2395,Male,20~64,Respiratory conditions,WIC,0,0
+2396,Female,5~19,Dislocation/fracture/joint injury/amputation,Call Closed,0,9.13
+2397,Female,65+,Unknown,Admitted,16,1160
+2398,Female,65+,Central Nervous System conditions,Not picked up in an ambulance,0,54
+2399,Male,20~64,Unknown,Discharged,0,173
+2400,Female,65+,Cardiac conditions,Not picked up in an ambulance,0,54
+2401,Female,20~64,Unknown,Admitted,0,693
+2402,Female,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+2403,Male,5~19,Respiratory conditions,Admitted,0,693
+2404,Male,65+,Cardiac conditions,Admitted,16,952.13
+2405,Female,20~64,Unknown,Discharged,0,173
+2406,Male,65+,Unknown,MIU,0,0
+2407,Male,20~64,Unknown,Admitted,16,1160
+2408,Male,20~64,Respiratory conditions,Spoke to a primary care service,0,54.13
+2409,Female,20~64,Collapse,WIC,0,0
+2410,Male,0~4,Unknown,Discharged,16,640
+2411,Female,20~64,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+2412,Female,20~64,Cardiac conditions,Emergency dentist,0,54.13
+2413,Female,20~64,Unknown,Admitted,0,693
+2414,Male,65+,Dislocation/fracture/joint injury/amputation,Admitted,16,1160
+2415,Male,20~64,Gastrointestinal conditions,Not picked up in an ambulance,0,54
+2416,Male,20~64,Unknown,Admitted,16,1160
+2417,Male,20~64,Unknown,Admitted,0,693
+2418,Male,65+,Unknown,Admitted,16,1160
+2419,Male,0~4,Unknown,Admitted,16,952.13
+2420,Female,65+,Collapse,WIC,0,0
+2421,Female,20~64,Respiratory conditions,Admitted,0,693
+2422,Male,65+,Unknown,Admitted,0,693
+2423,Male,65+,Unknown,Admitted,0,693
+2424,Male,20~64,Unknown,Admitted,16,1160
+2425,Male,20~64,Gastrointestinal conditions,Admitted,0,693
+2426,Female,20~64,Central Nervous System conditions,Admitted,0,702.13
+2427,Female,65+,Respiratory conditions,Admitted,0,693
+2428,Male,20~64,Unknown,Admitted,0,693
+2429,Female,20~64,Central Nervous System conditions,Admitted,0,693
+2430,Female,5~19,Central Nervous System conditions,Admitted,16,1160
+2431,Female,20~64,Unknown,Emergency dentist,0,54.13
+2432,Female,65+,Unknown,Admitted,0,693
+2433,Female,65+,Unknown,Emergency dentist,0,54.13
+2434,Male,20~64,Unknown,Admitted,16,1160
+2435,Male,5~19,Unknown,Discharged,16,640
+2436,Male,20~64,Cardiac conditions,Call Closed,0,9.13
+2437,Male,20~64,Unknown,Admitted,0,693
+2438,Male,65+,Unknown,Admitted,0,693
+2439,Male,20~64,Respiratory conditions,MIU,0,0
+2440,Male,20~64,Central Nervous System conditions,WIC,0,0
+2441,Female,5~19,Collapse,Seen by A&E doctor,76,681
+2442,Female,20~64,Central Nervous System conditions,Call Closed,0,9.13
+2443,Male,20~64,Unknown,Admitted,0,702.13
+2444,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2445,Female,65+,Gastrointestinal conditions,Admitted,0,693
+2446,Female,0~4,Unknown,Discharged,16,640
+2447,Female,65+,Unknown,Admitted,0,693
+2448,Male,20~64,Unknown,Discharged,0,173
+2449,Male,20~64,Unknown,OOH,0,54.13
+2450,Male,65+,Unknown,Spoke to a primary care service,0,54.13
+2451,Male,20~64,Unknown,Admitted,0,693
+2452,Female,65+,Unknown,Admitted,0,693
+2453,Female,5~19,Falls,OOH,0,54.13
+2454,Female,0~4,Unknown,Admitted,16,1160
+2455,Male,20~64,Central Nervous System conditions,Admitted,0,693
+2456,Female,20~64,Unknown,Admitted,0,693
+2457,Male,20~64,Unknown,Discharged,16,432.13
+2458,Male,20~64,Central Nervous System conditions,Admitted,0,693
+2459,Female,20~64,Unknown,Admitted,0,693
+2460,Female,5~19,Central Nervous System conditions,Admitted,16,1160
+2461,Male,20~64,Collapse,Out-patient clinic,16,640
+2462,Male,20~64,Unknown,WIC,0,0
+2463,Female,65+,Unknown,Admitted,0,693
+2464,Female,20~64,Unknown,WIC,0,173
+2465,Male,65+,Unknown,Admitted,0,693
+2466,Female,65+,Unknown,Admitted,0,693
+2467,Female,20~64,Collapse,WIC,0,0
+2468,Male,0~4,Unknown,WIC,0,54.13
+2469,Male,5~19,Unknown,Discharged,0,173
+2470,Male,20~64,Collapse,WIC,0,0
+2471,Female,20~64,Unknown,Admitted,16,1160
+2472,Male,20~64,Unknown,Admitted,0,693
+2473,Male,20~64,Unknown,Admitted,0,693
+2474,Female,20~64,Cardiac conditions,Admitted,0,693
+2475,Male,20~64,Dislocation/fracture/joint injury/amputation,Not picked up in an ambulance,0,54
+2476,Female,20~64,Cardiac conditions,Admitted,16,1160
+2477,Male,65+,Collapse,WIC,0,0
+2478,Male,20~64,Unknown,Admitted,0,693
+2479,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+2480,Male,20~64,Unknown,MIU,0,54.13
+2481,Female,20~64,Unknown,Discharged,16,640
+2482,Male,20~64,Unknown,Admitted,0,693
+2483,Male,65+,Respiratory conditions,Admitted,16,1160
+2484,Female,65+,Unknown,Admitted,0,693
+2485,Female,65+,Respiratory conditions,Admitted,16,952.13
+2486,Male,20~64,Gastrointestinal conditions,Admitted,0,702.13
+2487,Male,20~64,Unknown,Spoke to a primary care service,0,54.13
+2488,Male,20~64,Unknown,Emergency dentist,0,54.13
+2489,Female,5~19,Unknown,Discharged,16,432.13
+2490,Female,20~64,Falls,Out-patient clinic,16,640
+2491,Male,20~64,Unknown,Call Closed,0,9.13
+2492,Male,20~64,Unknown,Not picked up in an ambulance,0,54
+2493,Female,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2494,Male,5~19,Unknown,Discharged,0,173
+2495,Male,0~4,Gastrointestinal conditions,Admitted,0,693
+2496,Female,20~64,Central Nervous System conditions,Admitted,0,693
+2497,Male,0~4,Unknown,Admitted,0,693
+2498,Male,65+,Unknown,Admitted,0,693
+2499,Male,20~64,Dislocation/fracture/joint injury/amputation,MIU,0,0
+2500,Male,0~4,Unknown,Seen by A&E doctor,60,214
